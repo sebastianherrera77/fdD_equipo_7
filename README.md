@@ -24,7 +24,7 @@ ODS 15: VIDA DE ECOSISTEMAS TERRESTRES
 | | Johan Daymar Chara Franco | Lider de equipo | Innovacion social, analisis de datos y estructuracion de imformacion.|
 | | Juan | Diseñador | @juan123 |
 | | Alessandra Nicol Palomino Lima| Documentación | redacción técnica |
-| | Ana | Documentación | @ana123 |
+| | José Luis Cepida Castellares | Responsable de investigación| Química, Física, Biología y Cálculo |
 | | Ana | Documentación | @ana123 |
 
 **Resumen Final**
