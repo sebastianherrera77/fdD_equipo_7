@@ -11,6 +11,8 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
+ODS 6: AGUA LIMPIA Y SANEAMIENTO
+
 ODS 13: ACCIÓN POR EL CLIMA
 
 ODS 15: VIDA DE ECOSISTEMAS TERRESTRES
