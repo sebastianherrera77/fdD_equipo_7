@@ -23,7 +23,7 @@ ODS 15: VIDA DE ECOSISTEMAS TERRESTRES
 |:----|:-----------|:---|:-------|
 | | Sebastián | Desarrollador | @usuario |
 | | Juan | Diseñador | @juan123 |
-| | Alessandra | Documentación | redacción técnica |
+| | Alessandra Nicol Palomino Lima| Documentación | redacción técnica |
 | | Ana | Documentación | @ana123 |
 | | Ana | Documentación | @ana123 |
 
