@@ -3,7 +3,7 @@
 Carrera de Ingenieria Ambiental / Ingeniería informatica /Ingeniería Industrial
 
 Universidad Peruana Cayetano Heredia
-
+---
 🌐**Descripción del Equipo**
 
 Somos el Equipo 07 del curso fundamentos de Diseño 2026-2, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.
@@ -16,9 +16,11 @@ ODS 6: AGUA LIMPIA Y SANEAMIENTO
 ODS 13: ACCIÓN POR EL CLIMA
 
 ODS 15: VIDA DE ECOSISTEMAS TERRESTRES
+---
 
+📸 **Fotografia del equipo**
 
-
+----
 ## Integrantes
 
 | Foto | Integrante | Rol | intereses | 
