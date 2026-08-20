@@ -21,7 +21,8 @@ ODS 15: VIDA DE ECOSISTEMAS TERRESTRES
 
 📸 **Fotografia del equipo**
 
-----
+----<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/888a5b24-4f43-4b1c-86f6-fe9a15e42b77" />
+
 ## Integrantes
 
 | Foto | Integrante | Rol | intereses | 
