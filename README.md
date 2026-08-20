@@ -23,6 +23,9 @@ ODS 15: VIDA DE ECOSISTEMAS TERRESTRES
 |:----|:-----------|:---|:-------|
 | | Sebastián | Desarrollador | @usuario |
 | | Juan | Diseñador | @juan123 |
+| | Alessandra | Documentación | redacción técnica |
 | | Ana | Documentación | @ana123 |
 | | Ana | Documentación | @ana123 |
-| | Ana | Documentación | @ana123 |
+
+**Resumen Final**
+Este README presenta información resumida de cada uno de los integrantes de este equipo, así como lo qué nos motiva y en qué ODS queremos enfocar y orientar nuestro trabajo durante el curso
