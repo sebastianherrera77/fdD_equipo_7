@@ -22,7 +22,7 @@ ODS 15: VIDA DE ECOSISTEMAS TERRESTRES
 | Foto | Integrante | Rol | intereses | 
 |:----|:-----------|:---|:-------|
 | <img width="405" height="525" alt="image" src="https://github.com/user-attachments/assets/229baebf-81cb-4079-9bcb-3f9cc8ef5a81" />| Johan Daymar Chara Franco | Lider de equipo | Innovacion social, analisis de datos y estructuracion de imformacion.|
-|![sebastian](./Recursos/images/sebastian.png) | Wilmer Sebastian Herrera Neira | Diseñador frontend | diseño, programación |
+|![sebastian.png](./Recursos/images/sebastian.png) | Wilmer Sebastian Herrera Neira | Diseñador frontend | diseño, programación |
 | | Alessandra Nicol Palomino Lima| Documentación | redacción técnica |
 |<img width="240" height="288" alt="image" src="https://github.com/user-attachments/assets/6f32328b-37b6-4e85-aef1-4313297dd407" />| José Luis Cepida Castellares | Responsable de investigación| Química, Física, Biología y Cálculo |
 | <img width="240" height="288" alt="image" src="https://github.com/user-attachments/assets/14c15ef0-18b5-4a34-94b0-80de2f6d0147" />| José Junior Bances Panaque| Programador | Programación, análisis de datos, simulación |
