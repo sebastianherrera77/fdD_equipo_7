@@ -21,7 +21,7 @@ ODS 15: VIDA DE ECOSISTEMAS TERRESTRES
 
 | Foto | Integrante | Rol | intereses | 
 |:----|:-----------|:---|:-------|
-| | Sebastián | Desarrollador | @usuario |
+| | Johan Daymar Chara Franco | Lider de equipo | Innovacion social, analisis de datos y estructuracion de imformacion.|
 | | Juan | Diseñador | @juan123 |
 | | Alessandra Nicol Palomino Lima| Documentación | redacción técnica |
 | | Ana | Documentación | @ana123 |
