@@ -25,7 +25,8 @@ ODS 15: VIDA DE ECOSISTEMAS TERRESTRES
 | | Juan | Diseñador | @juan123 |
 | | Alessandra Nicol Palomino Lima| Documentación | redacción técnica |
 |<img width="240" height="288" alt="image" src="https://github.com/user-attachments/assets/6f32328b-37b6-4e85-aef1-4313297dd407" />| José Luis Cepida Castellares | Responsable de investigación| Química, Física, Biología y Cálculo |
-| | José Junior Bances Panaque| Programador | Programación, análisis de datos, simulación |
+| <img width="240" height="288" alt="image" src="https://github.com/user-attachments/assets/14c15ef0-18b5-4a34-94b0-80de2f6d0147" />
+ | José Junior Bances Panaque| Programador | Programación, análisis de datos, simulación |
 
 **Resumen Final**
 Este README presenta información resumida de cada uno de los integrantes de este equipo, así como lo qué nos motiva y en qué ODS queremos enfocar y orientar nuestro trabajo durante el curso
