@@ -1,6 +1,6 @@
 # Lista de Exigencias - Proyecto de Diagnóstico Fisicoquímico de Suelos Agrícolas
 **Metodología de Diseño: VDI 2206**  
-**Responsable:** José Bances Panaqué  
+**Responsable:** José Junior Bances Panaque  
 **Entregable:** E1 / Recursos  
 
 ---
