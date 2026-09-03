@@ -33,7 +33,7 @@ Los requerimientos de esta lista se formularon siguiendo las etapas iniciales de
 
 | D/E | Categoría | Descripción Técnica | Responsable |
 |:---:|---|---|---|
-| E | FUNCIÓN PRINCIPAL | Cuantificar in situ pH, conductividad eléctrica y humedad del estrato arable para determinar aptitud edáfica según los rangos de la sección 2. | General |
+| E | FUNCIÓN PRINCIPAL | Cuantificar conductividad eléctrica y humedad del estrato arable para determinar aptitud edáfica según los rangos de la sección 2. | General |
 | E | GEOMETRÍA | Dimensiones máximas de la unidad de control: 200 × 120 × 60 mm. Sonda de inserción con longitud útil ≥ 150 mm. | Mecánica |
 | D | GEOMETRÍA | Sonda desmontable con acople rápido roscado para facilitar transporte y recambio. | Mecánica |
 | E | CINEMÁTICA | Dispositivo estacionario durante la lectura. Tiempo de inserción y retiro manual ≤ 5 s por punto evaluado. | Mecánica |
