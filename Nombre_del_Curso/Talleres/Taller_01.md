@@ -1,9 +1,13 @@
 Artículos científicos:
 -Selección de métodos de aprendizaje automático adecuados para el mapeo digital de suelos 
 
+
 El artículo de Khaledian y Miller analiza y compara diversos algoritmos de aprendizaje automático para el mapeo digital de suelos, concluyendo que la elección del método adecuado depende fundamentalmente del tamaño de la muestra, el tiempo de procesamiento y la necesidad de interpretabilidad. Según el estudio, algoritmos como Cubist, Random Forest y Support Vector Regression ofrecen un rendimiento excelente y mayor facilidad de interpretación —especialmente en conjuntos de datos pequeños—, mientras que las redes neuronales destacan en bases de datos masivas a pesar de requerir un mayor costo computacional.[1]. 
+ 
+ 
  -Investigación sobre la contaminación del suelo: avances, desafíos y perspectivas
  El artículo de Gao et al. (2022) analiza mediante un estudio bibliométrico la evolución global de la investigación sobre la contaminación de la tierra, destacando el crecimiento histórico de las publicaciones y el papel clave de países como Estados Unidos. El trabajo señala que, a pesar de los avances científicos, la investigación sigue estando fragmentada, por lo que propone como reto principal integrar de manera más sólida los cambios en el uso del suelo con factores socioeconómicos y ambientales para lograr una gestión y políticas más holísticas en el futuro.[2]
+
 
 
 -Impacto del cambio climático en la agricultura de tierras áridas 
