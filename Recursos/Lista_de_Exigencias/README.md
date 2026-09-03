@@ -6,7 +6,6 @@
 * **Docentes:** Mg. Marco Mugaburu / Dr. Harry Rivera
 * **Elaborado por:** José Junior Bances Panaqué
 * **Revisado por:** Equipo 07
-* **Versión:** 1.0
 * **Fecha:** 02/09/2026
 
 ---
