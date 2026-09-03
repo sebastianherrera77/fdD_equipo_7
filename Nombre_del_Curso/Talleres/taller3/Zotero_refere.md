@@ -12,6 +12,28 @@ El artículo de Gao et al. (2022) analiza mediante un estudio bibliométrico la 
 
 El artículo de El-Beltagy y Madkour (2012) examina cómo el cambio climático y la presión demográfica intensifican la degradación de las tierras áridas y semiáridas, provocando una severa escasez de agua, pérdida de agrobiodiversidad y transformaciones profundas en los sistemas de cultivo. Ante este escenario de vulnerabilidad, los autores señalan que es indispensable adoptar un nuevo paradigma en la investigación agrícola y en las políticas institucionales que combine la ciencia moderna con el conocimiento tradicional para lograr una mayor resiliencia.[3]
 
+
+| **Recurso**                         | **Tema**                                    | **Aporte**                                                                                          | **Variables / Características**                                               | **Valores / Rango**                                                           |
+| ----------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **Khaledian y Miller [1]**          | Aprendizaje automático para mapeo de suelos | Permite elegir el algoritmo más adecuado según los datos y recursos disponibles.                    | Tamaño de muestra, tiempo de procesamiento, interpretabilidad, rendimiento.   | Muestra: pequeña/masiva; tiempo: bajo/alto; interpretabilidad: baja/alta.     |
+| **Gao et al. (2022) [2]**           | Contaminación del suelo                     | Analiza la evolución de la investigación y plantea integrar factores ambientales y socioeconómicos. | Publicaciones, uso del suelo, factores socioeconómicos y ambientales.         | Publicaciones: creciente; investigación: fragmentada; integración: baja/alta. |
+| **El-Beltagy y Madkour (2012) [3]** | Cambio climático en tierras áridas          | Evidencia la necesidad de mejorar la resiliencia agrícola frente al cambio climático.               | Escasez de agua, agrobiodiversidad, sistemas de cultivo, presión demográfica. | Agua: escasez severa; biodiversidad: pérdida; presión: alta.                  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## PATENTES
 
 Patente 1: 
