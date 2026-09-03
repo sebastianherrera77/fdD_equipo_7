@@ -2,7 +2,7 @@
 
 ### Datos Generales del Proyecto
 * **Proyecto:** Sistema portátil para caracterización y diagnóstico fisicoquímico de suelos agrícolas
-* **Asignatura:** Fundamentos de Diseño — Semestre 2026-II
+* **Asignatura:** Fundamentos de Diseño — Semestre 2026 II
 * **Docentes:** Mg. Marco Mugaburu / Dr. Harry Rivera
 * **Elaborado por:** José Junior Bances Panaque
 * **Revisado por:** Equipo FdD07
