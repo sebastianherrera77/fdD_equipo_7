@@ -95,6 +95,11 @@ Stenon FarmLab es un dispositivo revolucionario, certificado por TüV y DLG, que
 
 
 ## REFERENCIAS BIBLIOGRAFRICAS
+1-. Grunwald S, Murad MOF, Farrington S, Wallace W, Rooney D. Multi-Sensor Soil Probe and Machine Learning Modeling for Predicting Soil Properties. Sensors. enero de 2024;24(21):6855. doi:10.3390/s24216855
+
+2-.Gao L, Hu T, Li L, Zhou M, Zhu B. Land pollution research: progress, challenges, and prospects. Environ Res Commun. 1 de noviembre de 2022;4(11):112001. doi:10.1088/2515-7620/ac9e49
+
+3-.El-Beltagy A, Madkour M. Impact of climate change on arid lands agriculture. Agric Food Secur. diciembre de 2012;1(1):3. doi:10.1186/2048-7010-1-3
 
 Mosquera Meléndrez LM, Cevallos Rojas CD. Diseño e implementación de un prototipo IoT para el monitoreo de parámetros ambientales aplicados al cultivo de arroz utilizando ESP32 y ThingSpeak [tesis]. Guayaquil: Universidad Politécnica Salesiana; 2022.
 
@@ -102,12 +107,6 @@ Huapaya Silva FE. Diseño de una red de sensores inalámbrica para un área de c
 
 Álvarez Luna F, Muñoz Tobón M. Diseño e implementación de un prototipo de sistema de monitoreo para el análisis de la temperatura y humedad del suelo en cultivos de banano [proyecto aplicado]. Colombia: Universidad Nacional Abierta y a Distancia; 2024.
 
-
-1-. Grunwald S, Murad MOF, Farrington S, Wallace W, Rooney D. Multi-Sensor Soil Probe and Machine Learning Modeling for Predicting Soil Properties. Sensors. enero de 2024;24(21):6855. doi:10.3390/s24216855
-
-2-.Gao L, Hu T, Li L, Zhou M, Zhu B. Land pollution research: progress, challenges, and prospects. Environ Res Commun. 1 de noviembre de 2022;4(11):112001. doi:10.1088/2515-7620/ac9e49
-
-El-Beltagy A, Madkour M. Impact of climate change on arid lands agriculture. Agric Food Secur. diciembre de 2012;1(1):3. doi:10.1186/2048-7010-1-3
 
 CL2017001940 MÉTODO Y SISTEMA PARA DETERMINAR Y REGISTRAR CALIDAD DE MUESTRAS DE SUELO [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://patentscope.wipo.int/search/es/detail.jsf?docId=CL250855346
 
