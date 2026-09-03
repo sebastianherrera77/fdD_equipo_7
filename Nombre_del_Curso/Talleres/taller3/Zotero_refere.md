@@ -36,19 +36,19 @@ Es un dispositivo para medir la resistencia eléctrica del suelo que utiliza un 
 
 **2.3. Diseño de una red de sensores inalámbrica para un área de cultivo frutícola en una ONG**
 
-Esta investigación plantea el diseño de una red inalámbrica de sensores destinada al monitoreo de un área de cultivo frutícola. El sistema permite obtener información sobre variables como temperatura y humedad ambiental, luz, temperatura del suelo y humedad del suelo, transmitiendo los datos hacia una estación central para su análisis. La investigación demuestra la utilidad de las redes de sensores para obtener información en tiempo real sobre las condiciones de un cultivo y facilitar la toma de decisiones relacionadas con su manejo y productividad (1).
+Esta investigación plantea el diseño de una red inalámbrica de sensores destinada al monitoreo de un área de cultivo frutícola. El sistema permite obtener información sobre variables como temperatura y humedad ambiental, luz, temperatura del suelo y humedad del suelo, transmitiendo los datos hacia una estación central para su análisis. La investigación demuestra la utilidad de las redes de sensores para obtener información en tiempo real sobre las condiciones de un cultivo y facilitar la toma de decisiones relacionadas con su manejo y productividad (7).
 
 
 
 
 **2.4. Diseño e implementación de un prototipo IoT para el monitoreo de variables ambientales y de suelo en cultivos de arroz (Universidad Politécnica Salesiana, Ecuador)**
 
-Esta tesis desarrolla un prototipo basado en tecnología IoT para el monitoreo de variables ambientales determinantes en el cultivo de arroz, entre ellas la temperatura, la humedad relativa, la luminosidad y el pH del suelo, estableciendo rangos óptimos para cada parámetro —por ejemplo, un pH del suelo cercano a 6.6 que favorece la liberación microbiana de nutrientes como el nitrógeno y el fósforo. El estudio parte de la premisa de que el monitoreo constante de estas variables es determinante para que la producción agrícola alcance niveles óptimos, y que la falta de tecnificación es una de las causas de la baja productividad en el sector agrícola (2).
+Esta tesis desarrolla un prototipo basado en tecnología IoT para el monitoreo de variables ambientales determinantes en el cultivo de arroz, entre ellas la temperatura, la humedad relativa, la luminosidad y el pH del suelo, estableciendo rangos óptimos para cada parámetro —por ejemplo, un pH del suelo cercano a 6.6 que favorece la liberación microbiana de nutrientes como el nitrógeno y el fósforo. El estudio parte de la premisa de que el monitoreo constante de estas variables es determinante para que la producción agrícola alcance niveles óptimos, y que la falta de tecnificación es una de las causas de la baja productividad en el sector agrícola (8).
 
 
 **2.5. Diseño e implementación de un prototipo de sistema de monitoreo de variables de suelo para la agricultura**
 
-Este proyecto propone un sistema de monitoreo que integra sensores de temperatura y humedad del suelo junto con una plataforma de adquisición de datos y herramientas de visualización y análisis de información. Su objetivo es detectar a tiempo problemas en suelos arenosos, lodosos o con variaciones en humedad, temperatura y presión, brindando a los agricultores una visión detallada de las condiciones de sus cultivos para identificar irregularidades y establecer estrategias de manejo adaptadas. El trabajo también recoge antecedentes de sistemas IoT aplicados a invernaderos, como controladores PID adaptativos y plataformas en la nube para visualización de datos (3).
+Este proyecto propone un sistema de monitoreo que integra sensores de temperatura y humedad del suelo junto con una plataforma de adquisición de datos y herramientas de visualización y análisis de información. Su objetivo es detectar a tiempo problemas en suelos arenosos, lodosos o con variaciones en humedad, temperatura y presión, brindando a los agricultores una visión detallada de las condiciones de sus cultivos para identificar irregularidades y establecer estrategias de manejo adaptadas. El trabajo también recoge antecedentes de sistemas IoT aplicados a invernaderos, como controladores PID adaptativos y plataformas en la nube para visualización de datos (9).
 
 ## PRODUCTOS COMERCIALES 
 4.1 SOILOPTIX 
@@ -73,29 +73,16 @@ Proceso de ejecución:
 
    4.2 ESCÁNER NIR PORTÁTIL AGROCARES
   EMPRESA: AgTecher
- AgTecher nació del impulso de solucionar una necesidad no resuelta en el sector agrícola: la dificultad para acceder a información imparcial y verídica sobre tecnología del campo. Hoy en día, AgTecher presta servicios a miles de agricultores, asesores y entusiastas de la tecnología agrícola en todo el mundo. Hemos catalogado cientos de productos de robótica, sensores, agricultura de precisión, software y mucho más (2).
+AgTecher nació del impulso de solucionar una necesidad no resuelta en el sector agrícola: la dificultad para acceder a información imparcial y verídica sobre tecnología del campo. Hoy en día, AgTecher presta servicios a miles de agricultores, asesores y entusiastas de la tecnología agrícola en todo el mundo. Hemos catalogado cientos de productos de robótica, sensores, agricultura de precisión, software y mucho más (11).
 DESCRIPCIÓN
-dispositivo portátil proporciona un análisis rápido y preciso de suelo, pienso y hojas, capacitando a los agricultores para tomar decisiones informadas sobre la nutrición de los cultivos (2).
+dispositivo portátil proporciona un análisis rápido y preciso de suelo, pienso y hojas, capacitando a los agricultores para tomar decisiones informadas sobre la nutrición de los cultivos (11).
 FUNCIONAMIENTO
-La funcionalidad GPS integrada permite etiquetar la ubicación de cada escaneo, lo que permite el mapeo y la trazabilidad de los niveles de nutrientes en los campos. El escáner funciona con una batería de larga duración, que proporciona hasta una semana de uso con una sola carga (2).
+La funcionalidad GPS integrada permite etiquetar la ubicación de cada escaneo, lo que permite el mapeo y la trazabilidad de los niveles de nutrientes en los campos. El escáner funciona con una batería de larga duración, que proporciona hasta una semana de uso con una sola carga (11).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+4.3 Stenon FarmLab
+EMPRESA: Agtecher 
+DESCRIPCIÓN:
+Stenon FarmLab es un dispositivo revolucionario, certificado por TüV y DLG, que proporciona datos de parámetros del suelo en tiempo real y en el campo. Ofrece análisis rápidos, eficientes y precisos utilizando fusión avanzada de sensores e IA, optimizando la entrada de fertilizantes nitrogenados hasta en un 20% y mejorando los rendimientos de los cultivos. Experimente una inteligencia del suelo robusta y fácil de usar (12).
 
 
 
@@ -130,6 +117,8 @@ Matsumoto A, Kobayashi K, Okamoto M, Yonemaru Y, Fukushima Y, Sasaoka R, et al. 
 
  Brochure SoilOptix [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://glimaxsrl.com/wp-content/uploads/2024/08/Brochure-SoilOptix.pdf
  
+AgTecher [Internet]. [citado 3 de septiembre de 2026]. Escáner NIR Portátil AgroCares: Revolucionando el Análisis de Nutrientes. Disponible en: https://agtecher.com/es/hardware/agrocares/
+
 AgTecher [Internet]. [citado 3 de septiembre de 2026]. Escáner NIR Portátil AgroCares: Revolucionando el Análisis de Nutrientes. Disponible en: https://agtecher.com/es/hardware/agrocares/
 
 
