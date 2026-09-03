@@ -21,3 +21,38 @@ Esta tesis desarrolla un prototipo basado en tecnología IoT para el monitoreo d
 **2.5. Diseño e implementación de un prototipo de sistema de monitoreo de variables de suelo para la agricultura**
 
 Este proyecto propone un sistema de monitoreo que integra sensores de temperatura y humedad del suelo junto con una plataforma de adquisición de datos y herramientas de visualización y análisis de información. Su objetivo es detectar a tiempo problemas en suelos arenosos, lodosos o con variaciones en humedad, temperatura y presión, brindando a los agricultores una visión detallada de las condiciones de sus cultivos para identificar irregularidades y establecer estrategias de manejo adaptadas. El trabajo también recoge antecedentes de sistemas IoT aplicados a invernaderos, como controladores PID adaptativos y plataformas en la nube para visualización de datos (3).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## REFERENCIAS BIBLIOGRAFRICAS
+
+Mosquera Meléndrez LM, Cevallos Rojas CD. Diseño e implementación de un prototipo IoT para el monitoreo de parámetros ambientales aplicados al cultivo de arroz utilizando ESP32 y ThingSpeak [tesis]. Guayaquil: Universidad Politécnica Salesiana; 2022.
+
+Huapaya Silva FE. Diseño de una red de sensores inalámbrica para un área de cultivo frutícola en una ONG [tesis]. Lima: Pontificia Universidad Católica del Perú; 2007.
+
+Álvarez Luna F, Muñoz Tobón M. Diseño e implementación de un prototipo de sistema de monitoreo para el análisis de la temperatura y humedad del suelo en cultivos de banano [proyecto aplicado]. Colombia: Universidad Nacional Abierta y a Distancia; 2024.
+
