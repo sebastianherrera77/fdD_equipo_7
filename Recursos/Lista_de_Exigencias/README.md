@@ -5,14 +5,14 @@
 * **Asignatura:** Fundamentos de Diseño (C1324) — Semestre 2026-II
 * **Docentes:** Mg. Marco Mugaburu / Dr. Harry Rivera
 * **Elaborado por:** José Junior Bances Panaqué
-* **Revisado por:** Equipo 07
+* **Revisado por:** Equipo FdD07
 * **Fecha:** 02/09/2026
 
 ---
 
 ## 1. Criterios de Definición
 
-Los requerimientos de esta lista se formularon siguiendo las etapas iniciales de la metodología VDI 2206, considerando la revisión de la Guía para Muestreo de Suelos del MINAM (D.S. N°002-2013-MINAM), la clasificación agronómica estándar de pH y salinidad, y referencias de productos comerciales similares.
+Los requerimientos de esta lista se formularon siguiendo las etapas iniciales de la metodología VDI 2206, considerando la revisión de la Guía para Muestreo de Suelos del MINAM (D.S. N°002-2013-MINAM) y la clasificación agronómica estándar de pH y salinidad. Esta es una primera versión: se irá refinando conforme avance la revisión bibliográfica del equipo (artículos científicos, patentes, productos comerciales y tesis relacionadas, actualmente en curso).
 
 ## 2. Rangos de referencia
 
@@ -62,4 +62,4 @@ Los requerimientos de esta lista se formularon siguiendo las etapas iniciales de
 
 Este documento consolida los hallazgos de los Issues #32 a #36 (revisión normativa, selección de variables, vinculación ODS y brecha diagnóstica), y sirve de base para las etapas de conceptualización del sistema, en coordinación con el resto del equipo.
 
-*Documento elaborado por José Junior Bances Panaqué — Issue #37.*
+*Documento elaborado por José Junior Bances Panaque — Issue #37.*
