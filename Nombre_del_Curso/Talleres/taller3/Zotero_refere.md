@@ -110,9 +110,11 @@ El dispositivo (SoilOptix) se monta en un vehículo a 60 cm de altura y detecta 
 AgTecher nació para resolver la dificultad de encontrar datos confiables sobre tecnología agrícola, transformándose en una plataforma centralizada e independiente de proveedores que elimina la publicidad engañosa. Hoy en día, la empresa brinda servicio a miles de agricultores y asesores en todo el mundo, ofreciendo un catálogo verificado de cientos de soluciones —desde robótica hasta sensores y agricultura de precisión— enfocado exclusivamente en el retorno de inversión y la utilidad práctica (11).
 
 **Descripción del producto**
+
 El AgroCares Handheld NIR Scanner es un dispositivo portátil, ligero y robusto diseñado para optimizar la gestión de nutrientes en el campo. Utiliza tecnología de infrarrojo cercano para realizar análisis rápidos y no destructivos de suelo, pienso y hojas, ofreciendo alta precisión y hasta una semana de autonomía con una sola carga (11).
 
 **Funcionamiento**
+
 * **Captura de muestra:** El usuario inicia el escaneo en campo presionando un solo botón, operando incluso sin conexión a internet (11).
 * **Procesamiento de datos:** Su sensor NIR convierte las imágenes espectrales en datos nutricionales al contrastarlos de forma inalámbrica con las bases de datos de AgroCares y Trouw Nutrition (11).
 * **Geolocalización e integración:** Gracias a su GPS integrado, mapea y etiqueta la ubicación exacta de cada muestra tomada (11).
@@ -127,13 +129,21 @@ El AgroCares Handheld NIR Scanner es un dispositivo portátil, ligero y robusto 
 * **Propuesta de valor:** Busca transformar la toma de decisiones en toda la cadena agroindustrial (productores, consultores y distribuidores). Al integrar mapas de fertilidad georreferenciados con una plataforma en la nube, optimiza el rendimiento de los cultivos, reduce costos de insumos y previene la sobrefertilización para impulsar un modelo productivo más eficiente, rentable y sostenible (12).
 
 **Descripción del producto**
+
 El FarmLab de Stenon es un dispositivo portátil de análisis de suelos diseñado y ensamblado en Alemania, respaldado por certificaciones de calidad TÜV y DLG. Equipado con sensores avanzados (EIS y óptico) junto a un módulo GPS, ofrece mediciones de parámetros clave como nitrógeno disponible para las plantas (Nmin), materia orgánica del suelo (MOS), humedad y temperatura para optimizar el riego y la fertilización (12).
 
 **Funcionamiento**
+
 * **Captura avanzada de datos:** Al introducir el dispositivo en el suelo, sus sensores ópticos y de espectroscopía (EIS) capturan más de 4,500 puntos de datos brutos en cuestión de segundos, asignándoles coordenadas exactas gracias a su módulo GPS integrado (12).
 * **Procesamiento con Inteligencia Artificial:** La IA de Stenon procesa instantáneamente las lecturas contrastándolas con una base de datos global de fusión de sensores que almacena millones de registros analizados (12).
 * **Calibración y personalización regional:** El sistema aplica modelos de calibración adaptados a las características y prácticas agronómicas de cada zona geográfica para maximizar la exactitud de los resultados (12).
 * **Generación de información accionable:** Convierte las mediciones complejas en reportes agronómicos directos y prácticos, permitiendo a los agricultores tomar decisiones inmediatas sobre la aplicación de fertilizantes y el manejo del cultivo (12).
+
+| Nro. de producto comercial | Producto comercial | ¿Qué tema? | ¿Qué aporta? | Variables | Rangos / Valores |
+| :---: | :--- | :--- | :--- | :--- | :--- |
+| **1** | **SoilOptix (Glimax)** | Mapeo de suelos de alta definición mediante espectrometría de rayos gamma. | Permite entender la integración de sensores de radiación gamma para el mapeo no destructivo a gran escala e interconexión con modelos de laboratorio. | Radiación gamma natural (4 nucleídos), macro y micronutrientes, textura del suelo e hidrología. | **Montaje:** 60 cm de altura.<br>**Velocidad de trabajo:** Hasta 20 km/h.<br>**Densidad de datos:** 1000 puntos/ha.<br>**Muestreo de calibración:** 1 muestra cada 5 a 6.5 ha (profundidad 0–20 cm). |
+| **2** | **AgroCares Handheld NIR Scanner** | Análisis portátil e in situ de nutrientes en suelo, pienso y hojas usando infrarrojo cercano. | Sirve como referente de usabilidad portátil en campo, conexión IoT con app móvil y arquitectura de análisis no destructivo rápido. | Imágenes espectrales (NIR), nutrientes en suelo, pienso y material foliar. | **Autonomía:** Hasta 1 semana por carga.<br>**Operación:** 1 solo botón, funcionamiento *offline* con sincronización posterior.<br>**Tiempo de respuesta:** Minutos.<br>**Geolocalización:** GPS integrado. |
+| **3** | **Stenon FarmLab** | Análisis digital de suelos en tiempo real combinando sensores ópticos, eléctricos e IA. | Aporta al diseño de algoritmos con IA y fusión de datos multisensores para eliminar la necesidad de enviar muestras a laboratorios tradicionales. | Nitrógeno disponible ($N_{min}$), materia orgánica del suelo (MOS), humedad, temperatura, pH, fósforo y potasio. | **Muestreo:** >4,500 puntos de datos por lectura.<br>**Respuesta:** Tiempo real (segundos).<br>**Certificaciones:** TÜV y DLG.<br>**Geolocalización:** Módulo GPS integrado. |
 
 
 
@@ -153,19 +163,18 @@ El FarmLab de Stenon es un dispositivo portátil de análisis de suelos diseñad
 
 3-.El-Beltagy A, Madkour M. Impact of climate change on arid lands agriculture. Agric Food Secur. diciembre de 2012;1(1):3. doi:10.1186/2048-7010-1-3
 
-Mosquera Meléndrez LM, Cevallos Rojas CD. Diseño e implementación de un prototipo IoT para el monitoreo de parámetros ambientales aplicados al cultivo de arroz utilizando ESP32 y ThingSpeak [tesis]. Guayaquil: Universidad Politécnica Salesiana; 2022.
+4-.Mosquera Meléndrez LM, Cevallos Rojas CD. Diseño e implementación de un prototipo IoT para el monitoreo de parámetros ambientales aplicados al cultivo de arroz utilizando ESP32 y ThingSpeak [tesis]. Guayaquil: Universidad Politécnica Salesiana; 2022.
 
-Huapaya Silva FE. Diseño de una red de sensores inalámbrica para un área de cultivo frutícola en una ONG [tesis]. Lima: Pontificia Universidad Católica del Perú; 2007.
+5-.Huapaya Silva FE. Diseño de una red de sensores inalámbrica para un área de cultivo frutícola en una ONG [tesis]. Lima: Pontificia Universidad Católica del Perú; 2007.
 
-Álvarez Luna F, Muñoz Tobón M. Diseño e implementación de un prototipo de sistema de monitoreo para el análisis de la temperatura y humedad del suelo en cultivos de banano [proyecto aplicado]. Colombia: Universidad Nacional Abierta y a Distancia; 2024.
+6-.Álvarez Luna F, Muñoz Tobón M. Diseño e implementación de un prototipo de sistema de monitoreo para el análisis de la temperatura y humedad del suelo en cultivos de banano [proyecto aplicado]. Colombia: Universidad Nacional Abierta y a Distancia; 2024.
 
 
-CL2017001940 MÉTODO Y SISTEMA PARA DETERMINAR Y REGISTRAR CALIDAD DE MUESTRAS DE SUELO [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://patentscope.wipo.int/search/es/detail.jsf?docId=CL250855346
+7-.CL2017001940 MÉTODO Y SISTEMA PARA DETERMINAR Y REGISTRAR CALIDAD DE MUESTRAS DE SUELO [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://patentscope.wipo.int/search/es/detail.jsf?docId=CL250855346
 
-AR103581 DISPOSITIVO DE MEDICIÓN DE LA CALIDAD DEL SUELO [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://patentscope.wipo.int/search/es/detail.jsf?docId=AR203832224&_cid=P11-MTLQPD-21021-1
+8-.AR103581 DISPOSITIVO DE MEDICIÓN DE LA CALIDAD DEL SUELO [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://patentscope.wipo.int/search/es/detail.jsf?docId=AR203832224&_cid=P11-MTLQPD-21021-1
 
-Matsumoto A, Kobayashi K, Okamoto M, Yonemaru Y, Fukushima Y, Sasaoka R, et al. Suelo Dispositivo De Medición De Propiedades Y Método De Medición De Propiedades Del Suelo. JP2022135410A, 2022.
-
+9-.Matsumoto A, Kobayashi K, Okamoto M, Yonemaru Y, Fukushima Y, Sasaoka R, et al. Suelo Dispositivo De Medición De Propiedades Y Método De Medición De Propiedades Del Suelo. JP2022135410A, 2022.
 
 10-. Brochure SoilOptix [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://glimaxsrl.com/wp-content/uploads/2024/08/Brochure-SoilOptix.pdf
 
