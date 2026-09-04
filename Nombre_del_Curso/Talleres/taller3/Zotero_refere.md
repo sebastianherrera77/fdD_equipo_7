@@ -82,38 +82,59 @@ Este proyecto propone un sistema de monitoreo que integra sensores de temperatur
 
 ## PRODUCTOS COMERCIALES 
 
-4.1 SOILOPTIX 
+### 4.1 SOILOPTIX
 
-EMPRESA: GLIMAX
-Nace en 2006, cuando sus fundadores, Julián Muguerza y Gabriel Tinghitella, se unieron para sembrar algunas hectáreas, ambos vieron en la tecnología, la principal herramienta para captar, capitalizar y potenciar el aprendizaje, la herramienta para producir de manera cada vez más eficiente (10). 
+![Sensor SoilOptix montado en vehículo](https://www.futurefarming.com/app/uploads/2021/02/001_265_IMG_SoilOptix63x2-scaled.jpg)
 
-En el año 2016, comienza una nueva etapa en Glimax y, además de continuar como productores, nace la unidad de negocios de Tecnologías a través de la cual acompañan a productores y empresas de la agroindustria.  Años posteriores, crecieron en estructura, recursos humanos y en solucione (10). 
+**Empresa: GLIMAX**
+* **Origen:** Nace en 2006 cuando sus fundadores, Julián Muguerza y Gabriel Tinghitella, se unieron para sembrar hectáreas, identificando en la tecnología la herramienta principal para captar, capitalizar y potenciar el aprendizaje enfocado en la eficiencia productiva (10).
+* **Evolución:** En 2016 inicia una nueva etapa con el lanzamiento de la unidad de negocios de Tecnologías para acompañar a productores y empresas agroindustriales, creciendo progresivamente en estructura, recursos humanos y soluciones (10).
+* **Actualidad:** Es una empresa consolidada en el rubro, posicionada como referente en el desarrollo e implementación de tecnología y modelos productivos alineados con la sostenibilidad y la calidad de vida (10).
 
-Actualmente es una empresa consolidada en el rubro posicionándose como un referente de vanguardia en el desarrollo e implementación de tecnología y modelos productivos alineados con el cuidado de la naturaleza y la calidad de vida (10).
+**Descripción del producto**
+SoilOptix es un sensor de rayos gamma para suelo que permite obtener mapas modelados de nutrientes en alta definición (fertilidad química). Cuantifica la variabilidad de los macro y micronutrientes del suelo para habilitar el manejo diferenciado y la aplicación eficiente de insumos (10).
 
-DESCRIPCIÓN:
-SoilOptix, es un sensor de rayos gamma de suelo, que permite obtener mapas modelados de nutrientes en alta definición (Fertilidad química del suelo. Permite cuantificar la variabilidad de los macro y micronutrientes del suelo para comenzar a trabajar de forma diferenciada, aplicando insumos de manera eficiente (1).
+**Funcionamiento**
+El dispositivo (SoilOptix) se monta en un vehículo a 60 cm de altura y detecta la radiación gamma emitida de forma natural por el suelo a través de 4 nucleídos mientras recorre el terreno a velocidades de hasta 20 km/h (10).
 
-FUNCIONAMIENTO
-El dispositivo Glimax G (SoilOptix) se monta en un vehículo a 60 cm de altura y detecta la radiación gamma emitida de forma natural por el suelo a través de 4 nucleídos ("Cs" , "U" , "Th" , "K" ) mientras recorre el terreno a velocidades de hasta 20 km/h.
-Proceso de ejecución:
-	Muestreo puntual: Se toman muestras de suelo estratégicas (1 cada 5 a 6.5 hectáreas) a una profundidad de 0-20 cm para calibrar el sensor.
-	Escaneo de campo: Se recorre el lote registrando la emisión gamma del terreno.
-	Análisis y modelado: Las muestras físicas se envían al laboratorio y, combinando sus resultados con las lecturas del sensor, un algoritmo procesa la información para generar mapas digitales de alta resolución (1000 puntos de datos por hectárea) con los parámetros fisicoquímicos, textura e hidrología.
+*Proceso de ejecución:*
+1. **Muestreo puntual:** Se toman muestras de suelo estratégicas (1 cada 5 a 6.5 hectáreas) a una profundidad de 0–20 cm para calibrar el sensor (10).
+2. **Escaneo de campo:** Se recorre el lote registrando la emisión gamma del terreno (10).
+3. **Análisis y modelado:** Las muestras físicas se envían al laboratorio y, al combinar sus resultados con las lecturas del sensor, un algoritmo procesa la información para generar mapas digitales de alta resolución (1000 puntos de datos por hectárea) con parámetros fisicoquímicos, textura e hidrología (10).
 
+### 4.2 ESCÁNER NIR PORTÁTIL AGROCARES
 
-   4.2 ESCÁNER NIR PORTÁTIL AGROCARES
-  EMPRESA: AgTecher
-AgTecher nació del impulso de solucionar una necesidad no resuelta en el sector agrícola: la dificultad para acceder a información imparcial y verídica sobre tecnología del campo. Hoy en día, AgTecher presta servicios a miles de agricultores, asesores y entusiastas de la tecnología agrícola en todo el mundo. Hemos catalogado cientos de productos de robótica, sensores, agricultura de precisión, software y mucho más (11).
-DESCRIPCIÓN
-dispositivo portátil proporciona un análisis rápido y preciso de suelo, pienso y hojas, capacitando a los agricultores para tomar decisiones informadas sobre la nutrición de los cultivos (11).
-FUNCIONAMIENTO
-La funcionalidad GPS integrada permite etiquetar la ubicación de cada escaneo, lo que permite el mapeo y la trazabilidad de los niveles de nutrientes en los campos. El escáner funciona con una batería de larga duración, que proporciona hasta una semana de uso con una sola carga (11).
+![Escáner NIR Portátil AgroCares](https://agtecher.pages.dev/images/2023/11/524.webp)
 
-4.3 Stenon FarmLab
-EMPRESA: Agtecher 
-DESCRIPCIÓN:
-Stenon FarmLab es un dispositivo revolucionario, certificado por TüV y DLG, que proporciona datos de parámetros del suelo en tiempo real y en el campo. Ofrece análisis rápidos, eficientes y precisos utilizando fusión avanzada de sensores e IA, optimizando la entrada de fertilizantes nitrogenados hasta en un 20% y mejorando los rendimientos de los cultivos. Experimente una inteligencia del suelo robusta y fácil de usar (12).
+**Empresa: AgTecher**
+AgTecher nació para resolver la dificultad de encontrar datos confiables sobre tecnología agrícola, transformándose en una plataforma centralizada e independiente de proveedores que elimina la publicidad engañosa. Hoy en día, la empresa brinda servicio a miles de agricultores y asesores en todo el mundo, ofreciendo un catálogo verificado de cientos de soluciones —desde robótica hasta sensores y agricultura de precisión— enfocado exclusivamente en el retorno de inversión y la utilidad práctica (11).
+
+**Descripción del producto**
+El AgroCares Handheld NIR Scanner es un dispositivo portátil, ligero y robusto diseñado para optimizar la gestión de nutrientes en el campo. Utiliza tecnología de infrarrojo cercano para realizar análisis rápidos y no destructivos de suelo, pienso y hojas, ofreciendo alta precisión y hasta una semana de autonomía con una sola carga (11).
+
+**Funcionamiento**
+* **Captura de muestra:** El usuario inicia el escaneo en campo presionando un solo botón, operando incluso sin conexión a internet (11).
+* **Procesamiento de datos:** Su sensor NIR convierte las imágenes espectrales en datos nutricionales al contrastarlos de forma inalámbrica con las bases de datos de AgroCares y Trouw Nutrition (11).
+* **Geolocalización e integración:** Gracias a su GPS integrado, mapea y etiqueta la ubicación exacta de cada muestra tomada (11).
+* **Resultados en tiempo real:** Envía la información a una aplicación para smartphone, entregando recomendaciones inmediatas sobre fertilización y cultivos, además de sincronizar con la nube para actualizar sus modelos de predicción (11).
+   
+### 4.3 STENON FARMLAB
+
+![Stenon FarmLab](https://agtecher.pages.dev/images/2023/05/stenon-459x1024.jpg)
+
+**Empresa: STENON**
+* **Origen y enfoque:** Stenon GmbH (Potsdam, Alemania, 2018) es una agtech pionera en la recolección y entrega de datos digitales de suelos en tiempo real. Mediante su dispositivo FarmLab, reemplaza los análisis de laboratorio tradicionales al medir parámetros clave directamente en el campo (12).
+* **Propuesta de valor:** Busca transformar la toma de decisiones en toda la cadena agroindustrial (productores, consultores y distribuidores). Al integrar mapas de fertilidad georreferenciados con una plataforma en la nube, optimiza el rendimiento de los cultivos, reduce costos de insumos y previene la sobrefertilización para impulsar un modelo productivo más eficiente, rentable y sostenible (12).
+
+**Descripción del producto**
+El FarmLab de Stenon es un dispositivo portátil de análisis de suelos diseñado y ensamblado en Alemania, respaldado por certificaciones de calidad TÜV y DLG. Equipado con sensores avanzados (EIS y óptico) junto a un módulo GPS, ofrece mediciones de parámetros clave como nitrógeno disponible para las plantas (Nmin), materia orgánica del suelo (MOS), humedad y temperatura para optimizar el riego y la fertilización (12).
+
+**Funcionamiento**
+* **Captura avanzada de datos:** Al introducir el dispositivo en el suelo, sus sensores ópticos y de espectroscopía (EIS) capturan más de 4,500 puntos de datos brutos en cuestión de segundos, asignándoles coordenadas exactas gracias a su módulo GPS integrado (12).
+* **Procesamiento con Inteligencia Artificial:** La IA de Stenon procesa instantáneamente las lecturas contrastándolas con una base de datos global de fusión de sensores que almacena millones de registros analizados (12).
+* **Calibración y personalización regional:** El sistema aplica modelos de calibración adaptados a las características y prácticas agronómicas de cada zona geográfica para maximizar la exactitud de los resultados (12).
+* **Generación de información accionable:** Convierte las mediciones complejas en reportes agronómicos directos y prácticos, permitiendo a los agricultores tomar decisiones inmediatas sobre la aplicación de fertilizantes y el manejo del cultivo (12).
+
 
 
 
@@ -145,11 +166,15 @@ AR103581 DISPOSITIVO DE MEDICIÓN DE LA CALIDAD DEL SUELO [Internet]. [citado 3 
 
 Matsumoto A, Kobayashi K, Okamoto M, Yonemaru Y, Fukushima Y, Sasaoka R, et al. Suelo Dispositivo De Medición De Propiedades Y Método De Medición De Propiedades Del Suelo. JP2022135410A, 2022.
 
- Brochure SoilOptix [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://glimaxsrl.com/wp-content/uploads/2024/08/Brochure-SoilOptix.pdf
- 
-AgTecher [Internet]. [citado 3 de septiembre de 2026]. Escáner NIR Portátil AgroCares: Revolucionando el Análisis de Nutrientes. Disponible en: https://agtecher.com/es/hardware/agrocares/
 
-AgTecher [Internet]. [citado 3 de septiembre de 2026]. Escáner NIR Portátil AgroCares: Revolucionando el Análisis de Nutrientes. Disponible en: https://agtecher.com/es/hardware/agrocares/
+10-. Brochure SoilOptix [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://glimaxsrl.com/wp-content/uploads/2024/08/Brochure-SoilOptix.pdf
+
+11-. AgTecher [Internet]. [citado 3 de septiembre de 2026]. Escáner NIR Portátil AgroCares: Revolucionando el Análisis de Nutrientes. Disponible en: https://agtecher.com/es/hardware/agrocares/
+
+12-. Real-Time Soil Analysis Technology | Stenon [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://www.stenon.io/en/technology
+
+13-. AgTecher [Internet]. [citado 3 de septiembre de 2026]. Stenon FarmLab: Dispositivo de Análisis de Suelo en Tiempo Real. Disponible en: https://agtecher.com/es/hardware/stenon-farmlab/
+
 
 
 
