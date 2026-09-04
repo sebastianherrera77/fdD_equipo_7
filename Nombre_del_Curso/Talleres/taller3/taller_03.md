@@ -1,3 +1,5 @@
+# Búsqueda de Información Científica, Patentes, Tesis y Productos Comerciales
+
 ## Artículos científicos
 
 : -Selección de métodos de aprendizaje automático adecuados para el mapeo digital de suelos:
