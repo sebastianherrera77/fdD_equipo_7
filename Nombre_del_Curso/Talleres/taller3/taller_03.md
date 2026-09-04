@@ -1,6 +1,6 @@
 # Búsqueda de Información Científica, Patentes, Tesis y Productos Comerciales
 
-## Artículos científicos
+## 1. Artículos científicos
 
 : -Selección de métodos de aprendizaje automático adecuados para el mapeo digital de suelos:
 
@@ -34,7 +34,7 @@ El artículo de El-Beltagy y Madkour (2012) examina cómo el cambio climático y
 
 
 
-## PATENTES
+## 2. PATENTES
 
 Patente 1: 
 
@@ -54,21 +54,21 @@ Es un dispositivo para medir la resistencia eléctrica del suelo que utiliza un 
 
 
 
-## 2.TESIS
+## 3.TESIS
 
-**2.3. Diseño de una red de sensores inalámbrica para un área de cultivo frutícola en una ONG**
+**3.1. Diseño de una red de sensores inalámbrica para un área de cultivo frutícola en una ONG**
 
 Esta investigación plantea el diseño de una red inalámbrica de sensores destinada al monitoreo de un área de cultivo frutícola. El sistema permite obtener información sobre variables como temperatura y humedad ambiental, luz, temperatura del suelo y humedad del suelo, transmitiendo los datos hacia una estación central para su análisis. La investigación demuestra la utilidad de las redes de sensores para obtener información en tiempo real sobre las condiciones de un cultivo y facilitar la toma de decisiones relacionadas con su manejo y productividad (7).
 
 
 
 
-**2.4. Diseño e implementación de un prototipo IoT para el monitoreo de variables ambientales y de suelo en cultivos de arroz (Universidad Politécnica Salesiana, Ecuador)**
+**3.2. Diseño e implementación de un prototipo IoT para el monitoreo de variables ambientales y de suelo en cultivos de arroz (Universidad Politécnica Salesiana, Ecuador)**
 
 Esta tesis desarrolla un prototipo basado en tecnología IoT para el monitoreo de variables ambientales determinantes en el cultivo de arroz, entre ellas la temperatura, la humedad relativa, la luminosidad y el pH del suelo, estableciendo rangos óptimos para cada parámetro —por ejemplo, un pH del suelo cercano a 6.6 que favorece la liberación microbiana de nutrientes como el nitrógeno y el fósforo. El estudio parte de la premisa de que el monitoreo constante de estas variables es determinante para que la producción agrícola alcance niveles óptimos, y que la falta de tecnificación es una de las causas de la baja productividad en el sector agrícola (8).
 
 
-**2.5. Diseño e implementación de un prototipo de sistema de monitoreo de variables de suelo para la agricultura**
+**3.3. Diseño e implementación de un prototipo de sistema de monitoreo de variables de suelo para la agricultura**
 
 Este proyecto propone un sistema de monitoreo que integra sensores de temperatura y humedad del suelo junto con una plataforma de adquisición de datos y herramientas de visualización y análisis de información. Su objetivo es detectar a tiempo problemas en suelos arenosos, lodosos o con variaciones en humedad, temperatura y presión, brindando a los agricultores una visión detallada de las condiciones de sus cultivos para identificar irregularidades y establecer estrategias de manejo adaptadas. El trabajo también recoge antecedentes de sistemas IoT aplicados a invernaderos, como controladores PID adaptativos y plataformas en la nube para visualización de datos (9).
 
@@ -81,7 +81,7 @@ Este proyecto propone un sistema de monitoreo que integra sensores de temperatur
 | 3 | Álvarez Luna, Fárlex; Muñoz Tobón, Maribel. *Diseño e implementación de un prototipo de sistema de monitoreo para el análisis de la temperatura y humedad del suelo en cultivos de banano* [proyecto aplicado]. Colombia: Universidad Nacional Abierta y a Distancia; 2024. | Proyecto aplicado | Aporta un análisis comparativo muy útil de sensores (temperatura y humedad de suelo) y microcontroladores de bajo costo, además de validar la fiabilidad del prototipo comparando mediciones automáticas contra mediciones manuales, lo que nos sirve como metodología de validación para nuestro propio sistema. | Se implementó un prototipo con Arduino UNO, sensor de temperatura DHT11 y sensor de humedad de suelo FC-28, con transmisión de datos vía WiFi a ThingSpeak. Se comparó el desempeño del prototipo frente a mediciones manuales tradicionales (nivel freático con flexómetro), obteniendo una coincidencia del 85% (317 de 371 registros), validando así la precisión del sistema automatizado frente al método manual usado en la empresa Banafrut. | Temperatura ambiente/suelo, humedad del suelo. |
 
 
-## PRODUCTOS COMERCIALES 
+## 4. PRODUCTOS COMERCIALES 
 
 ### 4.1 SOILOPTIX
 
