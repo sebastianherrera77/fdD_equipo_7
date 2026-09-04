@@ -24,33 +24,21 @@ El artículo de El-Beltagy y Madkour (2012) examina cómo el cambio climático y
 
 
 
-
-
-
-
-
-
-
-
-
-
 ## 2. PATENTES
 
-Patente 1: 
+PATENTE 1: 
+Consiste en un método y sistema para obtener muestras de suelo mediante una sonda, evaluar su calidad y registrar digitalmente la información obtenida, permitiendo identificar cada muestra y asociarla con sus criterios de calidad y ubicación.(7)
+PATENTE 2: 
 
-Descripción básica: Es un muestreador de calidad del suelo diseñado para obtener y analizar muestras de suelo a diferentes profundidades. El dispositivo integra un sistema de medición de densidad del suelo, medición de profundidad y localización GPS, permitiendo registrar la ubicación de cada punto de muestreo y almacenar los datos obtenidos. Su principal utilidad es facilitar la evaluación de las características del suelo de manera más rápida y organizada.(4)
+Consiste en dividir imágenes de alta resolución de un terreno en microparcelas para evaluar indicadores agronómicos y ambientales, como la productividad potencial, los niveles de nutrientes y la fertilidad del suelo.(8)
+PATENTE 3: 
 
-Patente 2:
+Consiste en un dispositivo de monitorización del suelo que utiliza varios sensores para medir nutrientes, metales pesados y porosidad, transmitiendo los datos a un terminal remoto para su análisis y visualización.(9)
 
-La sonda de suelo es un dispositivo utilizado para extraer muestras de suelo y evaluar su calidad. Para realizar el análisis, la sonda se coloca sobre una zona determinada del terreno y se aplica una fuerza que permite introducirla en el suelo hasta una profundidad específica. De esta manera, se obtiene una muestra representativa. Posteriormente, la muestra es analizada para determinar diferentes parámetros o criterios de calidad del suelo. Los resultados obtenidos se relacionan con la muestra mediante un sistema de medición y, en algunos casos, un sistema informático (5).
-
-Patente 3:
-
-Es un dispositivo para medir la resistencia eléctrica del suelo que utiliza un electrodo y rocía previamente la superficie con un líquido conductor. Esto permite reducir la influencia de la sequedad del suelo y obtener una medición más precisa de sus propiedades eléctricas. (6)
-
-
-
-
+Recurso 	Tema 	Aporte 	Variables/características 	Valores /Rango 
+AR103581 – Dispositivo de medición de la calidad del suelo	Análisis de la calidad del suelo	Propone un método y sistema para extraer muestras de suelo y evaluar su calidad, utilizando una sonda de penetración, un dispositivo de medición y un sistema informático para registrar y relacionar los resultados obtenidos.	Muestra de suelo; profundidad de muestreo; criterios de calidad; ubicación geográfica mediante GPS; identificación de la muestra; sonda de suelo; dispositivo de medición; sistema informático.	Profundidad de muestreo: no especificada. Criterios de calidad: no especificados. Ubicación mediante GPS: sí. Valores de las propiedades del suelo: no especificados.
+Procedimiento automático para seccionar imágenes remotas y caracterizar indicadores agronómicos y ambientales	Evaluación agronómica y ambiental mediante teledetección	Permite dividir imágenes de alta resolución en microparcelas y obtener indicadores que ayudan a caracterizar las condiciones del terreno y su productividad potencial.	Centro geográfico; superficie; productividad potencial; presencia de malezas; niveles de nutrientes; fertilidad del suelo; factores bióticos y abióticos.	Valores específicos no indicados.
+CN220231730 – Dispositivo de monitorización de la calidad del suelo	Monitorización de la calidad del suelo	Propone un sistema de monitoreo enterrado o parcialmente enterrado que utiliza varios sensores para obtener información del suelo y transmitirla de forma inalámbrica a un terminal remoto para su análisis, almacenamiento y visualización.	Contenido de nutrientes; contenido de metales pesados; porosidad; sensores; microprocesador; comunicación inalámbrica; análisis y almacenamiento de datos.	Valores y rangos: no especificados
 
 
 
@@ -171,12 +159,11 @@ El FarmLab de Stenon es un dispositivo portátil de análisis de suelos diseñad
 
 6-.Álvarez Luna F, Muñoz Tobón M. Diseño e implementación de un prototipo de sistema de monitoreo para el análisis de la temperatura y humedad del suelo en cultivos de banano [proyecto aplicado]. Colombia: Universidad Nacional Abierta y a Distancia; 2024.
 
+7.	AR103581 DISPOSITIVO DE MEDICIÓN DE LA CALIDAD DEL SUELO [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://patentscope.wipo.int/search/es/detail.jsf?docId=AR203832224&_cid=P11-MTLQPD-21021-1
 
-7-.CL2017001940 MÉTODO Y SISTEMA PARA DETERMINAR Y REGISTRAR CALIDAD DE MUESTRAS DE SUELO [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://patentscope.wipo.int/search/es/detail.jsf?docId=CL250855346
-
-8-.AR103581 DISPOSITIVO DE MEDICIÓN DE LA CALIDAD DEL SUELO [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://patentscope.wipo.int/search/es/detail.jsf?docId=AR203832224&_cid=P11-MTLQPD-21021-1
-
-9-.Matsumoto A, Kobayashi K, Okamoto M, Yonemaru Y, Fukushima Y, Sasaoka R, et al. Suelo Dispositivo De Medición De Propiedades Y Método De Medición De Propiedades Del Suelo. JP2022135410A, 2022.
+8.	ES2332567 PROCEDIMIENTO AUTOMATICO PARA SECCIONAR IMAGENES REMOTAS Y CARACTERIZAR INDICADORES AGRONOMICOS Y AMBIENTALES EN LAS MISMAS [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://patentscope.wipo.int/search/es/detail.jsf?docId=ES5629360&_cid=P12-MTMF0A-63960-1
+   
+9.	CN220231730 Dispositivo de monitorización de la calidad del suelo [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://patentscope.wipo.int/search/es/detail.jsf?docId=CN418761028&_cid=P12-MTMFA3-78023-1
 
 10-. Brochure SoilOptix [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://glimaxsrl.com/wp-content/uploads/2024/08/Brochure-SoilOptix.pdf
 
