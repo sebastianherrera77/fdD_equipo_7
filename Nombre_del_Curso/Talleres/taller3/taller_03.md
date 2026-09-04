@@ -27,6 +27,7 @@ El artículo de El-Beltagy y Madkour (2012) examina cómo el cambio climático y
 ## 2. PATENTES
 
 PATENTE 1: 
+
 Consiste en un método y sistema para obtener muestras de suelo mediante una sonda, evaluar su calidad y registrar digitalmente la información obtenida, permitiendo identificar cada muestra y asociarla con sus criterios de calidad y ubicación.(7)
 
 PATENTE 2: 
@@ -43,6 +44,8 @@ Consiste en un dispositivo de monitorización del suelo que utiliza varios senso
 | **Procedimiento automático para seccionar imágenes remotas y caracterizar indicadores agronómicos y ambientales** | **Evaluación agronómica y ambiental mediante teledetección** | Permite dividir imágenes de alta resolución en microparcelas y obtener indicadores que ayudan a caracterizar las condiciones del terreno y su productividad potencial. | Centro geográfico; superficie; productividad potencial; presencia de malezas; niveles de nutrientes; fertilidad del suelo; factores bióticos y abióticos. | Valores específicos no indicados. |
 | **CN220231730 – Dispositivo de monitorización de la calidad del suelo** | **Monitorización de la calidad del suelo** | Propone un sistema de monitoreo enterrado o parcialmente enterrado que utiliza varios sensores para obtener información del suelo y transmitirla de forma inalámbrica a un terminal remoto para su análisis, almacenamiento y visualización. | Contenido de nutrientes; contenido de metales pesados; porosidad; sensores; microprocesador; comunicación inalámbrica; análisis y almacenamiento de datos. | Valores y rangos: no especificados. |
 
+![Figura 1. AR103581 – Dispositivo de medición de la calidad del suelo](<img width="367" height="457" alt="Captura de pantalla 2026-09-03 231948" src="https://github.com/user-attachments/assets/8971053a-f027-47cd-8b4d-574f5193f901" />
+)
 
 
 ## 3.TESIS
