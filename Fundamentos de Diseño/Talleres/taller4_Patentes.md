@@ -41,10 +41,9 @@
 | :--- | :--- |
 | **Título** | Método inteligente de monitorización de parámetros del entorno agrícola basado en el Internet de las Cosas |
 | **Número** | CN115452057A · 2022-12-09 |
-| **Imagen** | <img width="244" height="469" alt="image" src="https://github.com/user-attachments/assets/46677619-7059-452f-9292-651fed562a62" />
- |
-| **Resumen** | Método inteligente basado en IoT que instala un mecanismo de soporte con sensores de pH, temperatura y humedad enterrados a profundidad. Cuenta con un conjunto de limpieza con agua y componentes de monitoreo orientables. Un eje giratorio externo cambia sus posiciones y ángulos a intervalos regulares, mientras que un solenoide/tubo espiral interno ajusta periódicamente la altura. Permite plegar automáticamente los sensores dentro de una cubierta protectora ante mal tiempo y realizar operaciones automáticas de eliminación de polvo y limpieza para su mantenimiento(3). |
-| **Campo de aplicación** | Monitorización inteligente del entorno agrícola (Internet de las Cosas), evaluación del suelo y adquisición multifuncional de datos agroambientales en tiempo real. |
+| **Imagen** | <img width="244" height="469" alt="image" src="https://github.com/user-attachments/assets/46677619-7059-452f-9292-651fed562a62" /> |
+| **Resumen** | Método inteligente basado en IoT que utiliza un mecanismo de soporte equipado con sensores de pH y sensores de temperatura y humedad del suelo. Además, incorpora múltiples componentes de monitoreo que pueden modificar su posición y ángulo mediante un eje giratorio externo y ajustar su altura mediante un tubo espiral interno. El sistema permite plegar automáticamente los componentes de monitoreo dentro de una cubierta protectora ante condiciones climáticas adversas y realizar operaciones de eliminación de polvo y limpieza para su mantenimiento. |
+| **Campo de aplicación** | Monitorización inteligente del entorno agrícola mediante Internet de las Cosas (IoT), incluyendo la evaluación de parámetros del suelo y la adquisición de datos agroambientales en tiempo real. |
 
 **Aporte al proyecto**
 
