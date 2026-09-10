@@ -37,7 +37,9 @@
 
 ## --------------------------------------------------------------------------------------------------------
 
-
+| Patente | Valores | Rangos | Características |
+|---|---|---|---|
+| **CN115452057A – Intelligent agricultural environment parameter monitoring method based on Internet of Things** | Permite obtener datos de **pH, temperatura y humedad del suelo**, además de parámetros ambientales como temperatura y humedad del aire, intensidad de luz, velocidad del viento, lluvia, dióxido de carbono y presión atmosférica. | No especificados para todos los parámetros en la patente. | Sistema de monitoreo agrícola basado en **IoT**, que integra múltiples sensores, transmisión inalámbrica, almacenamiento y análisis de datos. También incorpora mecanismos de protección, limpieza y posicionamiento de los sensores. Sirve como referencia para nuestro proyecto por la integración de sensores de **pH, humedad y temperatura del suelo** y la transmisión de sus mediciones para evaluar las condiciones agrícolas. |
 
 
 ## --------------------------------------------------------------------------------------------------------
