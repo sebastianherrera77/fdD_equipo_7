@@ -45,11 +45,10 @@
 ## --------------------------------------------------------------------------------------------------------
 
 
-REFERENCIAS BIBLIOGRAFICAS:
+## REFERENCIAS BIBLIOGRAFICAS:
+
+
 2-. CN206430933U. 一种检测土壤pH值的装置 [Dispositivo para detectar el valor de pH del suelo]. China: CN; 2017 Aug 22. Disponible en: Espacenet – CN206430933U
 
 
 
-
-
-E
