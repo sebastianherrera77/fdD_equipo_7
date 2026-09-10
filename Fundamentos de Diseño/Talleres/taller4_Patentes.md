@@ -11,6 +11,7 @@
 
 
 
+PATENTE #2: Dispositivo detector del valor de pH del suelo
 
 
 | Elemento | Información |
