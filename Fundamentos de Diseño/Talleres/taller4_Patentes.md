@@ -12,7 +12,7 @@
 
 | Patente | Valores | Rangos | Características |
 |---|---|---|---|
-| **CN118067964A – Soil quality monitoring system for unploughed wasteland** | Permite obtener información sobre **humedad, temperatura y pH del suelo**, además de otros parámetros relacionados con sus condiciones fisicoquímicas. | Dependen de los parámetros evaluados y de las condiciones del suelo analizado. | Sistema orientado al **monitoreo de la calidad del suelo**, mediante diferentes módulos de medición y comparación de datos. Sirve como referencia para nuestro proyecto, donde se incorporarán sensores de **humedad, temperatura y pH** para evaluar las condiciones del suelo agrícola. |
+| CN118067964A – Soil quality monitoring system for unploughed wasteland | Permite obtener información sobre humedad, temperatura y pH del suelo, además de otros parámetros relacionados con sus condiciones fisicoquímicas. | Dependen de los parámetros evaluados y de las condiciones del suelo analizado. | Sistema orientado al monitoreo de la calidad del suelo mediante diferentes módulos de medición y comparación de datos. Sirve como referencia para nuestro proyecto, donde se incorporarán sensores de humedad, temperatura y pH para evaluar las condiciones del suelo agrícola. |
 
 
 ### -----------------------------------------------------------------------------------------------------------------------------
