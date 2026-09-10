@@ -7,7 +7,13 @@
 | **Imagen** | (<img width="429" height="537" alt="Captura de pantalla 2026-09-10 121720" src="https://github.com/user-attachments/assets/374cc4a1-7e17-4ba0-8520-ab9d8e650660" />) |
 | **Resumen** | Sistema de monitorización de la calidad del suelo para terrenos baldíos o sin cultivar. Está compuesto por módulos de experimentación, posicionamiento, fijación y monitorización. El sistema obtiene muestras de suelo y evalúa principalmente su contenido de agua y pH, además de controlar condiciones como temperatura, humedad y contenido de aire. Los datos obtenidos son comparados para determinar si el suelo presenta condiciones adecuadas para el cultivo y reducir la necesidad de inspecciones y labores innecesarias en el terreno. |
 | **Campo de aplicación** | Agricultura y análisis de suelos, específicamente en el monitoreo de la calidad y las condiciones fisicoquímicas del suelo para determinar su aptitud para el cultivo. |
-| **Aporte al proyecto** | Referencia para el monitoreo de parámetros fisicoquímicos del suelo mediante sensores. |
+| **Aporte al proyecto** |
+
+
+| Patente | Valores | Rangos | Características |
+|---|---|---|---|
+| **CN118067964A – Soil quality monitoring system for unploughed wasteland** | Permite obtener información sobre **humedad, temperatura y pH del suelo**, además de otros parámetros relacionados con sus condiciones fisicoquímicas. | Dependen de los parámetros evaluados y de las condiciones del suelo analizado. | Sistema orientado al **monitoreo de la calidad del suelo**, mediante diferentes módulos de medición y comparación de datos. Sirve como referencia para nuestro proyecto, donde se incorporarán sensores de **humedad, temperatura y pH** para evaluar las condiciones del suelo agrícola. |
+
 
 ### -----------------------------------------------------------------------------------------------------------------------------
 
