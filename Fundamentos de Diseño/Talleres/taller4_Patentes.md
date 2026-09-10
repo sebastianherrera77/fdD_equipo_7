@@ -48,7 +48,8 @@
 ## REFERENCIAS BIBLIOGRAFICAS:
 
 
-2-. CN206430933U. 一种检测土壤pH值的装置 [Dispositivo para detectar el valor de pH del suelo]. China: CN; 2017 Aug 22. Disponible en: Espacenet – CN206430933U
+2-. 2-. 临安盈川检测科技有限公司. A kind of device for detecting pH values in soil [Internet]. China: CN206430933U; 2017 Aug 22 [citado 2026 Sep 10]. Disponible en: Espacenet – CN206430933U
+
 
 3-. CN115452057A. Intelligent agricultural environment parameter monitoring method based on Internet of Things [Método de monitoreo de parámetros ambientales agrícolas inteligentes basado en Internet de las Cosas]. China: CN; 2022 Dec 9. Disponible en: Espacenet – CN115452057A
 
