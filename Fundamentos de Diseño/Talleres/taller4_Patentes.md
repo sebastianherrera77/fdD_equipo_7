@@ -9,7 +9,7 @@
 | **Campo de aplicación** | Agricultura y análisis de suelos, específicamente en el monitoreo de la calidad y las condiciones fisicoquímicas del suelo para determinar su aptitud para el cultivo. |
 | **Aporte al proyecto** | Referencia para el monitoreo de parámetros fisicoquímicos del suelo mediante sensores. |
 
-
+### ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## PATENTE #2: Dispositivo detector del valor de pH del suelo
 
@@ -28,7 +28,7 @@
 | **CN206430933U – Dispositivo para detectar el valor de pH del suelo** | Permite obtener el **valor de pH del suelo** mediante un sistema de detección diseñado para realizar mediciones directamente sobre el terreno. | Dependen de los parámetros evaluados y de las condiciones del terreno. | Dispositivo orientado a la **detección del pH del suelo**, facilitando la obtención de información sobre su acidez o alcalinidad. Sirve como referencia para nuestro proyecto, donde se incorporará un sensor de pH junto con sensores de humedad y temperatura para evaluar las condiciones del suelo agrícola. |
 
 
-
+## ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
