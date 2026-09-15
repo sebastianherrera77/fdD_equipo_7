@@ -53,7 +53,8 @@ La imposibilidad de evaluar la condición real del terreno en el momento de trab
 ## ODS SECUNDARIA:
 
 ### ODS 13: Acción por el Clima
-La degradación de los suelos agrícolas representa una amenaza importante para la producción de alimentos y los ecosistemas. Según la FAO, aproximadamente el 33 % de los suelos del mundo se encuentran moderada o altamente degradados debido a factores como la erosión, salinización, compactación, acidificación y contaminación. Además, el cambio climático puede intensificar la degradación del suelo mediante el aumento de las temperaturas, las sequías y los cambios en los patrones de precipitación. Esta problemática puede reducir la productividad agrícola, afectar la disponibilidad de agua y disminuir la capacidad de los suelos para almacenar carbono
+
+La degradación de los suelos agrícolas representa una amenaza para la producción de alimentos y los ecosistemas, y puede verse agravada por el cambio climático mediante el aumento de las temperaturas, las sequías y las variaciones en la disponibilidad de agua. Esta problemática se relaciona con la Meta 13.1 del ODS 13, que busca fortalecer la resiliencia y la capacidad de adaptación frente a los riesgos relacionados con el clima. En este contexto, nuestro proyecto busca desarrollar un sistema embebido que permita monitorear las condiciones del suelo mediante variables como pH, humedad y temperatura, proporcionando información oportuna sobre su estado y ayudando a identificar condiciones desfavorables que puedan afectar su aptitud para un cultivo específico. De esta manera, el proyecto contribuye a fortalecer la capacidad de adaptación y promover un manejo más sostenible de los suelos agrícolas frente a los efectos del cambio climático.
 
 -------
 ## REFERENCIAS BIBLIOGRAFICAS
