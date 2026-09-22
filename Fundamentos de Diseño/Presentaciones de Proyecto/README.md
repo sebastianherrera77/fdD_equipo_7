@@ -2,7 +2,7 @@
 
 ## 1. Problemática: Limitaciones en la Clasificación y Diagnóstico Fisicoquímico de Suelos Agrícolas en el Perú
 
-En el sector agrícola, los análisis de suelo en laboratorio son indispensables para tomar decisiones sobre la nutrición de los cultivos y evitar la degradación ambiental (1)[cite: 4]. Sin embargo, las metodologías convencionales basadas en muestreos de campo y ensayos de laboratorio suelen ser lentas, costosas y de carácter destructivo (2,3)[cite: 6, 16], lo que dificulta su adopción por parte de pequeños y medianos productores en el Perú.
+En el sector agrícola, los análisis de suelo en laboratorio son indispensables para tomar decisiones sobre la nutrición de los cultivos y evitar la degradación ambiental (1). Sin embargo, las metodologías convencionales basadas en muestreos de campo y ensayos de laboratorio suelen ser lentas, costosas y de carácter destructivo (2,3), lo que dificulta su adopción por parte de pequeños y medianos productores en el Perú.
 
 La falta de una caracterización oportuna genera diagnósticos inadecuados de las propiedades físicas y químicas (textura, retención de humedad, pH y conductividad eléctrica), limitando la disponibilidad de nutrientes y el desarrollo radicular (4,5). Esta deficiencia provoca el uso ineficiente del agua de riego e insumos químicos, favoreciendo la pérdida de tierras de cultivo por salinización (un problema recurrente en valles costeros como la cuenca del río Jequetepeque (6) y la degradación por lixiviación de contaminantes (1,7). Frente a estas limitaciones, surge la necesidad de implementar herramientas basadas en sensores no destructivos y modelos indirectos que permitan la caracterización e inferencia física del suelo de forma rápida y accesible en campo (2,3).
 
