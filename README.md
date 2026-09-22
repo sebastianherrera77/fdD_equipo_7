@@ -18,62 +18,43 @@ ODS 13: ACCIÓN POR EL CLIMA
 ODS 15: VIDA DE ECOSISTEMAS TERRESTRES
 
 ---
-
-
+# Estimación Textural y Diagnóstico Fisicoquímico de Suelos Agrícolas
 
 ## 1. Problemática: Limitaciones en la Clasificación y Diagnóstico Fisicoquímico de Suelos Agrícolas en el Perú
 
-Uno de los desafíos más críticos que enfrenta la sociedad es la acelerada destrucción de sus recursos naturales, siendo el suelo uno de los más afectados por la intervención humana a pesar de ser el sustento directo de la nutrición humana. Como destaca Valga Veliz (2015), "la degradación o desgaste de los suelos es la causa fundamental por la cual no es posible llegar a una agricultura sostenible", lo que demuestra la urgencia de transformar los sistemas actuales de gestión de la tierra para evitar daños irreversibles en la seguridad alimentaria mundial.
+En el sector agrícola, los análisis de suelo en laboratorio son indispensables para tomar decisiones sobre la nutrición de los cultivos y evitar la degradación ambiental (1). Sin embargo, las metodologías convencionales basadas en muestreos de campo y ensayos de laboratorio suelen ser lentas, costosas y de carácter destructivo (2,3), lo que dificulta su adopción por parte de pequeños y medianos productores en el Perú.
 
-​En el Perú, particularmente en los valles agrícolas de la costa como Lima, la producción agrícola enfrenta una severa heterogeneidad edáfica caracterizada por bajos niveles de materia orgánica, riesgos críticos de salinización y variabilidad en la estructura del suelo. De acuerdo con la FAO (2021; Global Assessment of Salt-Affected Soils), la salinización y el deterioro fisicoquímico representan las principales causas de degradación de la tierra a nivel mundial, reduciendo drásticamente la capacidad productiva de los agroecosistemas.
+La falta de una caracterización oportuna genera diagnósticos inadecuados de las propiedades físicas y químicas (textura, retención de humedad, pH y conductividad eléctrica), limitando la disponibilidad de nutrientes y el desarrollo radicular (4,5). Esta deficiencia provoca el uso ineficiente del agua de riego e insumos químicos, favoreciendo la pérdida de tierras de cultivo por salinización (un problema recurrente en valles costeros como la cuenca del río Jequetepeque (6) y la degradación por lixiviación de contaminantes (1,7). Frente a estas limitaciones, surge la necesidad de implementar herramientas basadas en sensores no destructivos y modelos indirectos que permitan la caracterización e inferencia física del suelo de forma rápida y accesible en campo (2,3).
 
-​Actualmente, el diagnóstico de aptitud del suelo para cultivos específicos se basa en métodos empíricos o en muestreos tradicionales de laboratorio. Estos últimos, si bien son precisos, implican costos elevados y tiempos de respuesta prolongados (días a semanas), impidiendo una clasificación oportuna de las propiedades del terreno en campo. Esta brecha de información agronómica conduce a decisiones inadecuadas en el manejo de enmiendas, sobreaplicación de agroquímicos y degradación acelerada del estrato arable.
-​
-Por otro lado, los métodos convencionales no permiten correlacionar de manera ágil los parámetros fisicoquímicos in situ (como conductividad eléctrica, potencial redox, textura aparente y pH) con los criterios taxonómicos y de aptitud establecidos por marcos internacionales como la Base Referencial Mundial del Recurso Suelo (WRB / FAO).
+Esta problemática se vuelve aún más crítica al considerar que en el Perú el recurso suelo de aptitud agropecuaria es un bien sumamente escaso, representando únicamente el 7% del territorio nacional (9), del cual solo el 3.8% corresponde a tierras aptas para cultivos en limpio y el 2.1% a cultivos permanentes (9). Asimismo, este recurso se encuentra severamente amenazado por procesos de deterioro: al menos un 40% de los suelos agrícolas de la Costa están afectados por salinización y mal drenaje (9), más del 60% de los suelos agropecuarios de la Sierra sufren erosión de mediana a extrema gravedad (9), y en la Amazonía cerca de 5 millones de hectáreas han sido abandonadas por pérdida de fertilidad debido a técnicas inadecuadas (9).
 
-​En consecuencia, la falta de herramientas accesibles para el monitoreo y clasificación rápida del perfil edáfico dificulta determinar la viabilidad del terreno para cultivos específicos, acelerando la desertificación y comprometiendo la sostenibilidad agrícola a largo plazo.
+---
+## 2. Fundamentos de la Problemática dentro de los Objetivos de Desarrollo Sostenible (ODS)
 
-## 2. FUNDAMENTOS DE LA PROBLEMÁTICA DENTRO DE LOS OBJETIVOS DE DESARROLLO SOSTENIBLE (ODS)
+### ODSPrincipal
 
-### ODS PRINCIPAL:
+* **ODS 15: Vida de Ecosistemas Terrestres**
+   * **Fundamentación:** Dado que más de 8 millones de hectáreas sufren erosión severa y el 40% de los valles costeros peruanos se ven afectados por salinización (9), el aporte central del prototipo es servir como un instrumento accesible para el monitoreo frecuente de la salud del suelo, proporcionando bases técnicas para prevenir la pérdida de fertilidad y la degradación de los agroecosistemas (4,6,7).
 
-En el Perú, la contaminación y degradación de los suelos agrícolas es una problemática relacionada con el ODS 15: Vida de Ecosistemas Terrestres. Uno de los factores que puede contribuir a este problema es el uso excesivo o inadecuado de pesticidas, ya que sus residuos pueden afectar la calidad del suelo y alterar los ecosistemas. Frente a esta situación, nuestro proyecto busca desarrollar un sistema embebido que permita evaluar las condiciones del suelo y detectar posibles contaminantes, con el objetivo de contribuir a un manejo más adecuado y sostenible de los suelos agrícolas. 
+### ODS Secundarios
 
+* **ODS 12: Producción y Consumo Responsables**
+   * **Fundamentación:** Como soporte a la conservación del suelo, el prototipo permite prescribir la fertilización y el riego según las necesidades reales del cultivo y la textura estimada (1,7). Esto previene la contaminación de acuíferos subterráneos por lixiviación de nitratos y optimiza el uso del agua (1,5).
 
------------
-
-### ODS SECUNDARIA:
-ODS 12: PRODUCCIÓN Y CONSUMO RESPONSABLE
-
-La imposibilidad de evaluar la condición real del terreno en el momento de trabajo conduce a un consumo ineficiente de recursos hídricos para el riego y a una sobreaplicación de fertilizantes sintéticos. Estudios de campo como el de Mantuano Mero (2024) evidencian que hasta un 100% de los agricultores en determinadas zonas dependen de fertilizantes químicos en sus sistemas de producción, aplicando estos productos continuamente sin un monitoreo preciso de parámetros físicos y químicos clave (como pH, humedad, salinidad o conductividad). De este modo, nos enfocaremos en el aprovechamiento eficiente de los recursos agrícolas (agua y nutrientes). Investigaremos cómo la falta de monitoreo periódico de las condiciones del suelo impide determinar la cantidad justa de agua y enmiendas necesarias, promoviendo prácticas de uso desmedido que amenazan la sostenibilidad de la producción agrícola a largo plazo.
-
-
-
--------------
-## ODS SECUNDARIA:
-
-### ODS 13: Acción por el Clima
-
-La degradación de los suelos agrícolas representa una amenaza para la producción de alimentos y los ecosistemas, y puede verse agravada por el cambio climático mediante el aumento de las temperaturas, las sequías y las variaciones en la disponibilidad de agua. Esta problemática se relaciona con la Meta 13.1 del ODS 13, que busca fortalecer la resiliencia y la capacidad de adaptación frente a los riesgos relacionados con el clima. En este contexto, nuestro proyecto busca desarrollar un sistema embebido que permita monitorear las condiciones del suelo mediante variables como pH, humedad y temperatura, proporcionando información oportuna sobre su estado y ayudando a identificar condiciones desfavorables que puedan afectar su aptitud para un cultivo específico. De esta manera, el proyecto contribuye a fortalecer la capacidad de adaptación y promover un manejo más sostenible de los suelos agrícolas frente a los efectos del cambio climático.
+* **ODS 2: Hambre Cero**
+   * **Fundamentación:** Al conocer el estado del suelo y su clasificación textural (4), el agricultor puede tomar decisiones informadas para seleccionar el cultivo más apto en parcelas reducidas, mejorando la productividad de tierras agrícolas escasas (1,4,9).
 
 -------
 ## REFERENCIAS BIBLIOGRAFICAS
 
-1. Archbold, G., Parra, C., Carrillo, H., & Mouazen, A. M. (2023). Towards the implementation of ISFET sensors for in-situ and real-time chemical analyses in soils: A practical review. Computers and Electronics in Agriculture, 212, 107828. https://doi.org/10.1016/j.compag.2023.107828
-
-2. Brinco, J., Guedes, P., Gomes da Silva, M., Mateus, E. P., & Ribeiro, A. B. (2023). Analysis of pesticide residues in soil: A review and comparison of methodologies. Microchemical Journal, 195, 109465. https://doi.org/10.1016/j.microc.2023.109465
-
-3. Correa-Núñez, G. H., & Rojas-Jaimes, J. (2022). Uso de plaguicidas no autorizados en alimentos agrícolas primarios, Perú (2011-2018). Manglar, 19(1), 61–65. https://doi.org/10.17268/manglar.2022.008
-
-4. Food and Agriculture Organization of the United Nations, & Intergovernmental Technical Panel on Soils. (2015). Status of the world’s soil resources (SWSR): Main report. FAO. https://openknowledge.fao.org/server/api/core/bitstreams/6ec24d75-19bd-4f1f-b1c5-5becf50d0871/content
-
-5. Organización de las Naciones Unidas para la Alimentación y la Agricultura. (s. f.). Clasificación de suelos. Portal de Suelos de la FAO. https://www.fao.org/soils-portal/soil-survey/clasificacion-de-suelos/es/
-
-6. Mantuano Mero, N. N. (2024). Uso de fertilizantes químicos y su efecto en la degradación de suelo agrícola en la finca Alejandro Ponce, Parroquia La América [Trabajo de titulación, Universidad Estatal del Sur de Manabí]. Repositorio Institucional UNESUM. http://repositorio.unesum.edu.ec/handle/53000/6188
-
-7. Ministerio del Ambiente. (2014). Guía para el muestreo de suelos (D.S. N.° 002-2013-MINAM). MINAM. http://www.minam.gob.pe/wp-content/uploads/2014/04/RM-N%C2%B0-085-2014-MINAM.pdf
-
-8. Valga Veliz, R. M. (2015). Uso de suelos agrícolas bajo una agricultura sostenible en el Perú [Trabajo de titulación, Universidad Nacional Daniel Alcides Carrión]. Repositorio Institucional UNDAC. http://repositorio.undac.edu.pe/handle/undac/5148
+1.	López-González, F. J., Ponce-García, O. C., Trejo-Téllez, L. I., Mendoza-Araujo, S., & Navarrete-Saldaña, E. S. (2026). Del campo al laboratorio: La calidad en los análisis de suelos. Voces del Suelo, Agricultura y Medioambiente, 4(2), 16-26. https://doi.org/10.28940/vocesdelsuelo.v4i2.2836
+2.	Martínez-Ríos, J. J., & Monger, H. C. (2002). SOIL CLASSIFICATION IN ARID LANDS WITH THEMATIC MAPPER DATA. https://jornada.nmsu.edu/files/bibliography/JRN00368.pdf
+3.	B, E. J. O. (1995). Características físico-químicas del suelo y su incidencia en la absorción de nutrimentos, con énfasis en el cultivo de la palma de aceite. Palmas, 16(1), 31-39. https://publicaciones.fedepalma.org/index.php/palmas/article/view/461
+4.	Jahnsen Cisneros, M. (2014). Impacto de la represa Gallito Ciego en la pérdida de tierras de cultivo por salinización en la Cuenca Baja del río Jequetepeque 1980-2003. http://hdl.handle.net/20.500.12404/5125
+5.	Navarro Bravo, A., Figueroa Sandoval, B., Martínez Menes, M., González Cossio, F., & Osuna Ceja, E. S. (2008). Indicadores físicos del suelo bajo labranza de conservación y su relación con el rendimiento de tres cultivos. Agricultura técnica en México, 34(2), 151-158. http://www.scielo.org.mx/scielo.php?script=sci_abstract&pid=S0568-25172008000200002&lng=es&nrm=iso&tlng=es
+6.	Villarroel, J. S., Espinoza, H. A., Hinojoza, J. L. T., Diaz, L. F. B., Magallanes, J. L. M., & Pasache, J. L. D. (2026). Determinantes fisicoquímicos del suelo y su influencia en la productividad de Ipomoea batatas L. en valles costeros áridos de Perú. Alfa Revista de Investigación en Ciencias Agronómicas y Veterinarias, 10(29), 1-11. https://doi.org/10.33996/revistaalfa.v10i29.478
+7.	Puma Chuquichampi, J., & Teran Corredor, I. E. (2022). La importancia de la clasificación de suelos tropicales por la metodología MCT en contraste con las recomendaciones AASHTO para el proyecto vial Carretera Pe—5N DV Cabo Leveau departamento de San Martin. https://repositorio.usil.edu.pe/entities/publication/fc9f3a18-2cc8-49a4-96d7-2c3bca74eb0c
+8.	Suelo. (s. f.). Recuperado 22 de septiembre de 2026, de https://www.midagri.gob.pe/portal/43-sector-agrario/suelo
   
 
 ----------
