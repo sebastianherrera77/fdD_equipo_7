@@ -44,9 +44,7 @@ A partir de la respuesta termo-electromagnética de la muestra, el firmware dedu
 
 ---
 
-## 4. Beneficios para el Sector Agrícola y el Usuario Objetivo
-
-Orientado principalmente a **pequeños y medianos agricultores, técnicos de campo y asociaciones agrónomas**:
+## 4. Beneficios 
 
 * **Ahorro y Eficiencia:** Reduce costos de análisis tradicionales de laboratorio y evita gastos innecesarios en fertilizantes al ajustar las dosis según el diagnóstico real del suelo (1,7).
 * **Toma de Decisiones In Situ:** Proporciona recomendaciones inmediatas sobre qué cultivos sembrar según el tipo de suelo, previniendo pérdidas de cosecha por incompatibilidad (4,5).
