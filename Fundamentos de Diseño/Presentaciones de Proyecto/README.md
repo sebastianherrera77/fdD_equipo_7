@@ -44,6 +44,18 @@ A partir de la respuesta termo-electromagnética de la muestra, el firmware dedu
 
 ---
 
+## 4. Beneficios para el Sector Agrícola y el Usuario Objetivo
+
+Orientado principalmente a **pequeños y medianos agricultores, técnicos de campo y asociaciones agrónomas**:
+
+* **Ahorro y Eficiencia:** Reduce costos de análisis tradicionales de laboratorio y evita gastos innecesarios en fertilizantes al ajustar las dosis según el diagnóstico real del suelo (1,7).
+* **Toma de Decisiones In Situ:** Proporciona recomendaciones inmediatas sobre qué cultivos sembrar según el tipo de suelo, previniendo pérdidas de cosecha por incompatibilidad (4,5).
+* **Protección del Recurso Suelo y Agua:** Optimiza la programación del riego de acuerdo con la capacidad de retención del suelo y ayuda a monitorear la salinización, frenando la degradación de las tierras (6,7,9).
+* **Democratización Tecnológica:** Acerca el uso de herramientas de agricultura de precisión a comunidades rurales con limitados recursos (1,4).
+
+---
+
+
 ### Referencias Bibliográficas
 
 1.	López-González, F. J., Ponce-García, O. C., Trejo-Téllez, L. I., Mendoza-Araujo, S., & Navarrete-Saldaña, E. S. (2026). Del campo al laboratorio: La calidad en los análisis de suelos. Voces del Suelo, Agricultura y Medioambiente, 4(2), 16-26. https://doi.org/10.28940/vocesdelsuelo.v4i2.2836
