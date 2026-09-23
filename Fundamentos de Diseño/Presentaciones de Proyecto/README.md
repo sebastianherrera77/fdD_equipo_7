@@ -16,7 +16,7 @@ El prototipo se enfoca en abordar la problemática de degradación de tierras co
 ### ODSPrincipal
 
 * **ODS 15: Vida de Ecosistemas Terrestres**
-  * **Meta 15.3 (Aporte directo del proyecto):** Proporcionar una herramienta de monitoreo temprano in situ para la detección de indicadores de salinización, erosión y degradación física del suelo.
+  * **Meta 15.3:** Proporcionar una herramienta de monitoreo temprano in situ para la detección de indicadores de salinización, erosión y degradación física del suelo.
   * **Indicador 15.3.1:** Registro y seguimiento continuo de parámetros de salinidad (Conductividad Eléctrica) y acidez (pH) en parcelas de prueba.
   * **Fundamentación:** Dado que más de 8 millones de hectáreas sufren erosión severa y el 40% de los valles costeros peruanos se ven afectados por salinización (9), el aporte central del prototipo es servir como un instrumento accesible para el monitoreo frecuente de la salud del suelo, proporcionando bases técnicas para prevenir la pérdida de fertilidad y la degradación de los agroecosistemas (4,6,7).
 
@@ -25,12 +25,12 @@ El prototipo se enfoca en abordar la problemática de degradación de tierras co
 ### ODS Secundarios
 
 * **ODS 12: Producción y Consumo Responsables**
-  * **Meta 12.4 (Aporte complementario):** Promover el uso racional de insumos agrícolas y agua mediante el conocimiento de la retención hídrica y química del suelo.
+  * **Meta 12.4:** Promover el uso racional de insumos agrícolas y agua mediante el conocimiento de la retención hídrica y química del suelo.
   * **Indicador 12.4.2:** Reducción en la sobreaplicación de fertilizantes sintéticos a través del diagnóstico previo de la muestra.
   * **Fundamentación:** Como soporte a la conservación del suelo, el prototipo permite prescribir la fertilización y el riego según las necesidades reales del cultivo y la textura estimada (1,7). Esto previene la contaminación de acuíferos subterráneos por lixiviación de nitratos y optimiza el uso del agua (1,5).
 
 * **ODS 2: Hambre Cero**
-  * **Meta 2.3 (Aporte complementario):** Contribuir al fortalecimiento de la productividad de pequeños productores agrícolas mediante herramientas de diagnóstico de bajo costo.
+  * **Meta 2.3:** Contribuir al fortalecimiento de la productividad de pequeños productores agrícolas mediante herramientas de diagnóstico de bajo costo.
   * **Indicador 2.3.1:** Optimización del rendimiento agrícola por unidad de superficie cultivada.
   * **Fundamentación:** Al conocer el estado del suelo y su clasificación textural (4), el agricultor puede tomar decisiones informadas para seleccionar el cultivo más apto en parcelas reducidas, mejorando la productividad de tierras agrícolas escasas (1,4,9).
 
