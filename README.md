@@ -19,7 +19,7 @@ ODS 15: VIDA DE ECOSISTEMAS TERRESTRES
 
 ---
 
-# Estimación Textural y Diagnóstico Fisicoquímico de Suelos Agrícolas
+# clasificación textural de suelos y evaluación de aptitud de cultivo basada en humedad, temperatura y conductividad eléctrica
 
 ## 1. Problemática: Limitaciones en la Clasificación y Diagnóstico Fisicoquímico de Suelos Agrícolas en el Perú
 
@@ -59,7 +59,7 @@ El prototipo se enfoca en abordar la problemática de degradación de tierras co
 
 ## 3. Enfoque del Proyecto y Propuesta de Valor
 
-El proyecto consiste en un **prototipo accesible basado en sistema embebido** que estima la clase textural y las condiciones fisicoquímicas del suelo sin recurrir a análisis de laboratorio tradicionales o costosos (2,3). El dispositivo mide en tiempo real **humedad, temperatura, pH y conductividad eléctrica (CE)**.
+El proyecto consiste en un Sistema embebido para la clasificación textural de suelos y evaluación de aptitud de cultivo basada en humedad, temperatura y conductividad eléctrica del suelo sin recurrir a análisis de laboratorio tradicionales o costosos (2,3). El dispositivo mide en tiempo real **humedad, temperatura, pH y conductividad eléctrica (CE)**.
 
 A partir de la respuesta termo-electromagnética de la muestra, el firmware deduce su comportamiento físico (retención hídrica e intercambio iónico) y la clasifica dentro de las 12 categorías del **Triángulo Textural de Suelos del USDA** (ej. franco, arcillo-arenoso o arcillo-limoso) (2,3,8). Finalmente, cruza la textura estimada con los niveles de pH y salinidad para emitir un **diagnóstico automatizado de aptitud agrícola** (4).
 
