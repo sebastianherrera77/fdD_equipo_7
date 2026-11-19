@@ -1,6 +1,8 @@
 ##SOLUCIÓN 1 (ELEGIDA)
 
 ## Planos y Esquemas del Prototipo
+### Vista interna 2
+<img width="520" height="596" alt="image" src="https://github.com/user-attachments/assets/7e1fe1da-211b-40f0-b3ff-31b2365c51a2" />
 
 ### Vista Superior
 <img width="600" height="675" alt="image" src="https://github.com/user-attachments/assets/22bf6e93-740f-4847-9606-e9cbfd3a2ce7" />
