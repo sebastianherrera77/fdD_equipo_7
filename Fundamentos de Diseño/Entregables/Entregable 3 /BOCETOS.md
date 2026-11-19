@@ -2,23 +2,21 @@
 
 ## Descripción de funcionamiento
 
-![Vista superior](https://ejemplo.com/tu-imagen.png)
+<img width="570" height="685" alt="image" src="https://github.com/user-attachments/assets/b5180582-b14e-480c-ba91-6bf5445a12c8" />
 ## Planos y Esquemas del Prototipo
 
 ### Vista Superior
-[Pega aquí la imagen de vista superior]
-
+<img width="600" height="675" alt="image" src="https://github.com/user-attachments/assets/22bf6e93-740f-4847-9606-e9cbfd3a2ce7" />
 ### Vista Frontal
-[Pega aquí la imagen 1 - Vista frontal]
+<img width="563" height="671" alt="image" src="https://github.com/user-attachments/assets/e506d7df-66d0-4027-aa53-92e0e77a7949" />
 
 ### Vista Lateral
-[Pega aquí la imagen 2 - Vista lateral]
+<img width="576" height="1024" alt="image" src="https://github.com/user-attachments/assets/738b37d3-9377-4d3f-86b5-080b57611c7a" />
 
 ### Detalle Interno de la Sonda
-[Pega aquí la imagen 3 - Despiece de sonda]
+<img width="377" height="262" alt="image" src="https://github.com/user-attachments/assets/ca546736-3953-44f6-825f-0bf267ec6dd8" />
 
 ### Distribución Electrónica Interna
-[Pega aquí la imagen 4 - Esquema 3D interno]
 
 
 
