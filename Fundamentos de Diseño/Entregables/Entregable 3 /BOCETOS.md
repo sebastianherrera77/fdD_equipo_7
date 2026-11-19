@@ -32,7 +32,7 @@ En operación, el sistema obtiene las medidas de los parámetros mediante la **s
 | **4** | Sonda de pH | Cuerpo inferior / sonda de medición (globo **4**) |
 | **5** | Sección trasera / lateral | Indicada con el globo **5** en la vista lateral |
 | **6** | Carcasa / Compartimento | Indicado con el globo **6** en la vista lateral |
-| **7–10** | Sensor de humedad | Elementos de sonda/medición numerados **7**, **8**, **9** y **10** |
+| **7–10** | Sensores| Elementos de sonda/medición numerados **7**, **8**, **9** y **10** |
 | **8** | Interruptor | Indicado con el globo **8** en el plano |
 | **Interno** | Sensor de pH | Módulo electrónico interno de lectura de pH |
 | **Interno** | Batería de litio de 3.7 V | Fuente de alimentación interna de 3.7 V |
