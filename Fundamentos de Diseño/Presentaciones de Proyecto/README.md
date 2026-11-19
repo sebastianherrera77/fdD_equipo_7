@@ -1,12 +1,12 @@
-# Estimación Textural y Diagnóstico Fisicoquímico de Suelos Agrícolas
+# Clasificación textural de suelos y evaluación de aptitud de cultivo basada en humedad, temperatura y conductividad eléctrica
 
-## 1. Problemática: Limitaciones en la Clasificación y Diagnóstico Fisicoquímico de Suelos Agrícolas en el Perú
+## 1. Problemática: Limitaciones en la Clasificación Textural y la Evaluación de Aptitud de Suelos Agrícolas en el Perú
 
-En el sector agrícola, los análisis de suelo en laboratorio son indispensables para tomar decisiones sobre la nutrición de los cultivos y evitar la degradación ambiental (1). Sin embargo, las metodologías convencionales basadas en muestreos de campo y ensayos de laboratorio suelen ser lentas, costosas y de carácter destructivo (2,3), lo que dificulta su adopción por parte de pequeños y medianos productores en el Perú.
+En el Perú, el suelo de aptitud agropecuaria es el recurso más escaso del país, pues abarca alrededor del 7% del territorio y, según la clasificación de uso mayor de ONERN (1985), el 3.8% del territorio es apto para cultivos en limpio y el 2.1% para cultivos permanentes (9). A esta escasez se suma su deterioro: se estima que al menos el 40% de los suelos agrícolas de la Costa presenta salinización y mal drenaje, más del 60% de los suelos agropecuarios de la Sierra sufre erosión de mediana a extrema gravedad, unos 8 millones de hectáreas están severamente erosionadas a nivel nacional y, en la Amazonía, unas 5 millones de hectáreas han sido abandonadas por pérdida de fertilidad y erosión (9). Si bien el MIDAGRI advierte que esta clasificación es antigua (9), las cifras permiten dimensionar la magnitud del problema. A escala local, además, la pérdida de tierras de cultivo por salinización se ha estudiado en la cuenca baja del río Jequetepeque (6).
 
-La falta de una caracterización oportuna genera diagnósticos inadecuados de las propiedades físicas y químicas (textura, retención de humedad, pH y conductividad eléctrica), limitando la disponibilidad de nutrientes y el desarrollo radicular (4,5). Esta deficiencia provoca el uso ineficiente del agua de riego e insumos químicos, favoreciendo la pérdida de tierras de cultivo por salinización (un problema recurrente en valles costeros como la cuenca del río Jequetepeque (6) y la degradación por lixiviación de contaminantes (1,7). Frente a estas limitaciones, surge la necesidad de implementar herramientas basadas en sensores no destructivos y modelos indirectos que permitan la caracterización e inferencia física del suelo de forma rápida y accesible en campo (2,3).
+Dado este panorama, elegir bien qué cultivar en cada parcela es una decisión crítica, ya que depende de conocer la textura, el pH y la conductividad eléctrica (CE) del suelo (4,5). Sin embargo, en un país con más de 2.2 millones de unidades agropecuarias (8), la caracterización convencional requiere muestreo de campo y análisis de laboratorio, procesos lentos y laboriosos (2,3), cuyos resultados confiables, además, exigen procedimientos de calidad y personal capacitado (1). En consecuencia, su uso rutinario en parcelas pequeñas es limitado, y el productor termina decidiendo qué sembrar sin información inmediata sobre la clase textural de su suelo ni sobre su aptitud para el cultivo que desea establecer.
 
-Esta problemática se vuelve aún más crítica al considerar que en el Perú el recurso suelo de aptitud agropecuaria es un bien sumamente escaso, representando únicamente el 7% del territorio nacional (9), del cual solo el 3.8% corresponde a tierras aptas para cultivos en limpio y el 2.1% a cultivos permanentes (9). Asimismo, este recurso se encuentra severamente amenazado por procesos de deterioro: al menos un 40% de los suelos agrícolas de la Costa están afectados por salinización y mal drenaje (9), más del 60% de los suelos agropecuarios de la Sierra sufren erosión de mediana a extrema gravedad (9), y en la Amazonía cerca de 5 millones de hectáreas han sido abandonadas por pérdida de fertilidad debido a técnicas inadecuadas (9).
+Por ello, el problema se delimita a las parcelas agrícolas de pequeños y medianos productores del Perú, y se centra en la estimación de la textura del suelo a partir de la humedad, la temperatura, el pH y la CE, con el fin de emitir un diagnóstico preliminar de aptitud para un cultivo objetivo. En cambio, quedan fuera de su alcance la medición de nutrientes (nitrógeno, carbono, sulfatos) y el reemplazo del análisis químico de laboratorio, pues se busca ofrecer una primera orientación y no un análisis completo. En este sentido, la escasez y el deterioro del recurso (9), la demora y la especialización que exigen los análisis convencionales (1,2,3) y la influencia documentada de la textura, el pH y la CE sobre el desarrollo de los cultivos (4,5) justifican contar con una herramienta de campo rápida y accesible. Así, el problema puede resumirse en la falta de herramientas accesibles y rápidas que permitan clasificar la textura del suelo en campo y relacionarla con el pH y la CE para determinar su aptitud para un cultivo específico.
 
 ---
 ## 2. Fundamentos de la Problemática dentro de los Objetivos de Desarrollo Sostenible (ODS)
@@ -38,9 +38,11 @@ El prototipo se enfoca en abordar la problemática de degradación de tierras co
 
 ## 3. Enfoque del Proyecto y Propuesta de Valor
 
-El proyecto consiste en un **prototipo accesible basado en sistema embebido** que estima la clase textural y las condiciones fisicoquímicas del suelo sin recurrir a análisis de laboratorio tradicionales o costosos (2,3). El dispositivo mide en tiempo real **humedad, temperatura, pH y conductividad eléctrica (CE)**.
+El proyecto consiste en un Sistema embebido para la clasificación textural de suelos y evaluación de aptitud de cultivo basada en humedad, temperatura y conductividad eléctrica del suelo sin recurrir a análisis de laboratorio tradicionales o costosos (2,3). El dispositivo mide en tiempo real **humedad, temperatura, pH y conductividad eléctrica (CE)**.
 
-A partir de la respuesta termo-electromagnética de la muestra, el firmware deduce su comportamiento físico (retención hídrica e intercambio iónico) y la clasifica dentro de las 12 categorías del **Triángulo Textural de Suelos del USDA** (ej. franco, arcillo-arenoso o arcillo-limoso) (2,3,8). Finalmente, cruza la textura estimada con los niveles de pH y salinidad para emitir un **diagnóstico automatizado de aptitud agrícola** (4).
+## 
+A partir de las lecturas de humedad, temperatura, pH y conductividad eléctrica (CE) de la muestra, el sistema infiere su comportamiento físico (retención hídrica) y la clasifica dentro de las 12 categorías del Triángulo Textural de Suelos del USDA (ej. franco, arcillo-arenoso o arcillo-limoso) (2,3,8). Finalmente, cruza la textura estimada con los niveles de pH y CE y con los parámetros del cultivo objetivo elegido por el usuario, para emitir un diagnóstico preliminar de aptitud agrícola (4).
+
 
 ---
 
@@ -53,8 +55,7 @@ A partir de la respuesta termo-electromagnética de la muestra, el firmware dedu
 
 ---
 
-
-### Referencias Bibliográficas
+## REFERENCIAS BIBLIOGRAFICAS
 
 1.	López-González, F. J., Ponce-García, O. C., Trejo-Téllez, L. I., Mendoza-Araujo, S., & Navarrete-Saldaña, E. S. (2026). Del campo al laboratorio: La calidad en los análisis de suelos. Voces del Suelo, Agricultura y Medioambiente, 4(2), 16-26. https://doi.org/10.28940/vocesdelsuelo.v4i2.2836
 2.	Martínez-Ríos, J. J., & Monger, H. C. (2002). SOIL CLASSIFICATION IN ARID LANDS WITH THEMATIC MAPPER DATA. https://jornada.nmsu.edu/files/bibliography/JRN00368.pdf
@@ -63,8 +64,5 @@ A partir de la respuesta termo-electromagnética de la muestra, el firmware dedu
 5.	Navarro Bravo, A., Figueroa Sandoval, B., Martínez Menes, M., González Cossio, F., & Osuna Ceja, E. S. (2008). Indicadores físicos del suelo bajo labranza de conservación y su relación con el rendimiento de tres cultivos. Agricultura técnica en México, 34(2), 151-158. http://www.scielo.org.mx/scielo.php?script=sci_abstract&pid=S0568-25172008000200002&lng=es&nrm=iso&tlng=es
 6.	Villarroel, J. S., Espinoza, H. A., Hinojoza, J. L. T., Diaz, L. F. B., Magallanes, J. L. M., & Pasache, J. L. D. (2026). Determinantes fisicoquímicos del suelo y su influencia en la productividad de Ipomoea batatas L. en valles costeros áridos de Perú. Alfa Revista de Investigación en Ciencias Agronómicas y Veterinarias, 10(29), 1-11. https://doi.org/10.33996/revistaalfa.v10i29.478
 7.	Puma Chuquichampi, J., & Teran Corredor, I. E. (2022). La importancia de la clasificación de suelos tropicales por la metodología MCT en contraste con las recomendaciones AASHTO para el proyecto vial Carretera Pe—5N DV Cabo Leveau departamento de San Martin. https://repositorio.usil.edu.pe/entities/publication/fc9f3a18-2cc8-49a4-96d7-2c3bca74eb0c
-8.	Narvaez, H. (s. f.). iNVERSIÓN SOCIAL PARA EL DESARROLLO SOSTENIBLE. https://fechac.org.mx/app_fechac/_files/_img/_documents/012821-160142_rf-1-03compromisodefechacconlosodsrev1.pdf?gad_source=1&gad_campaignid=20014956691&gbraid=0AAAAABsloXpyztw9ymjiuG3H4cZDV4-Aj&gclid=EAIaIQobChMI2qDkrIyDlwMVv01IAB0XlxGjEAAYASAAEgLRP_D_BwE
-9.	Suelo. (s. f.). Recuperado 22 de septiembre de 2026, de https://www.midagri.gob.pe/portal/43-sector-agrario/suelo
-
-
-
+8.	Suelo. (s. f.). Recuperado 22 de septiembre de 2026, de https://www.midagri.gob.pe/portal/43-sector-agrario/suelo
+  
