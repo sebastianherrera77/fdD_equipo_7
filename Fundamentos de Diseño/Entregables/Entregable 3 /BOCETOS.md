@@ -3,24 +3,22 @@
 ## Descripción de funcionamiento
 
 ![Vista superior](https://ejemplo.com/tu-imagen.png)
+## Planos y Esquemas del Prototipo
 
+### Vista Superior
+[Pega aquí la imagen de vista superior]
 
+### Vista Frontal
+[Pega aquí la imagen 1 - Vista frontal]
 
+### Vista Lateral
+[Pega aquí la imagen 2 - Vista lateral]
 
+### Detalle Interno de la Sonda
+[Pega aquí la imagen 3 - Despiece de sonda]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Distribución Electrónica Interna
+[Pega aquí la imagen 4 - Esquema 3D interno]
 
 
 
