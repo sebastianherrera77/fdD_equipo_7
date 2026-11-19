@@ -2,7 +2,7 @@
 
 ## Descripción de funcionamiento
 
-
+![Vista superior](https://ejemplo.com/tu-imagen.png)
 
 
 
