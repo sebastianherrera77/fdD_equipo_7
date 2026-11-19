@@ -63,6 +63,8 @@ El proyecto consiste en un Sistema embebido para la clasificación textural de s
 
 ## 
 A partir de las lecturas de humedad, temperatura, pH y conductividad eléctrica (CE) de la muestra, el sistema infiere su comportamiento físico (retención hídrica) y la clasifica dentro de las 12 categorías del Triángulo Textural de Suelos del USDA (ej. franco, arcillo-arenoso o arcillo-limoso) (2,3,8). Finalmente, cruza la textura estimada con los niveles de pH y CE y con los parámetros del cultivo objetivo elegido por el usuario, para emitir un diagnóstico preliminar de aptitud agrícola (4).
+
+
 ---
 
 ## 4. Beneficios 
