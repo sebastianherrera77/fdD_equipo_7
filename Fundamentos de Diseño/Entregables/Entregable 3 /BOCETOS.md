@@ -7,13 +7,14 @@
 
 ### Vista Superior
 <img width="600" height="675" alt="image" src="https://github.com/user-attachments/assets/22bf6e93-740f-4847-9606-e9cbfd3a2ce7" />
+
 ### Vista Frontal
 <img width="563" height="671" alt="image" src="https://github.com/user-attachments/assets/e506d7df-66d0-4027-aa53-92e0e77a7949" />
 
 ### Vista Lateral
 <img width="576" height="1024" alt="image" src="https://github.com/user-attachments/assets/738b37d3-9377-4d3f-86b5-080b57611c7a" />
 
-### Detalle Interno de la Sonda
+### Detalle Interno 
 <img width="377" height="262" alt="image" src="https://github.com/user-attachments/assets/ca546736-3953-44f6-825f-0bf267ec6dd8" />
 
 ### Distribución Electrónica Interna
