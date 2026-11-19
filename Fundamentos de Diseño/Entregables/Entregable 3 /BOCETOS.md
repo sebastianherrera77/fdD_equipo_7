@@ -1,6 +1,5 @@
 ##SOLUCIÓN 1 (ELEGIDA)
 
-<img width="570" height="685" alt="image" src="https://github.com/user-attachments/assets/b5180582-b14e-480c-ba91-6bf5445a12c8" />
 ## Planos y Esquemas del Prototipo
 
 ### Vista Superior
