@@ -1,7 +1,5 @@
 ##SOLUCIÓN 1 (ELEGIDA)
 
-## Descripción de funcionamiento
-
 <img width="570" height="685" alt="image" src="https://github.com/user-attachments/assets/b5180582-b14e-480c-ba91-6bf5445a12c8" />
 ## Planos y Esquemas del Prototipo
 
@@ -17,9 +15,7 @@
 ### Detalle Interno 
 <img width="377" height="262" alt="image" src="https://github.com/user-attachments/assets/ca546736-3953-44f6-825f-0bf267ec6dd8" />
 
-### Distribución Electrónica Interna
-
-
+## Descripción de funcionamiento
 
 El sistema de monitoreo basado en **ESP32** se alimenta mediante una **batería de litio de 3.7 V**, cuya energía pasa por el **regulador de voltaje** para suministrar una tensión estable al microcontrolador y a los periféricos, controlando el encendido general mediante el **interruptor**. El cableado interno de energía y señales se organiza a través de las **borneras**.
 
