@@ -61,7 +61,8 @@ El prototipo se enfoca en abordar la problemática de degradación de tierras co
 
 El proyecto consiste en un Sistema embebido para la clasificación textural de suelos y evaluación de aptitud de cultivo basada en humedad, temperatura y conductividad eléctrica del suelo sin recurrir a análisis de laboratorio tradicionales o costosos (2,3). El dispositivo mide en tiempo real **humedad, temperatura, pH y conductividad eléctrica (CE)**.
 
-## A partir de las lecturas de humedad, temperatura, pH y conductividad eléctrica (CE) de la muestra, el sistema infiere su comportamiento físico (retención hídrica) y la clasifica dentro de las 12 categorías del Triángulo Textural de Suelos del USDA (ej. franco, arcillo-arenoso o arcillo-limoso) (2,3,8). Finalmente, cruza la textura estimada con los niveles de pH y CE y con los parámetros del cultivo objetivo elegido por el usuario, para emitir un diagnóstico preliminar de aptitud agrícola (4).
+## 
+A partir de las lecturas de humedad, temperatura, pH y conductividad eléctrica (CE) de la muestra, el sistema infiere su comportamiento físico (retención hídrica) y la clasifica dentro de las 12 categorías del Triángulo Textural de Suelos del USDA (ej. franco, arcillo-arenoso o arcillo-limoso) (2,3,8). Finalmente, cruza la textura estimada con los niveles de pH y CE y con los parámetros del cultivo objetivo elegido por el usuario, para emitir un diagnóstico preliminar de aptitud agrícola (4).
 ---
 
 ## 4. Beneficios 
